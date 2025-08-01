@@ -19723,3 +19723,1220 @@ UnknownFunction []
 [2025.08.01-01.13.49:733][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 214895.250000
 [2025.08.01-01.13.50:733][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.01-01.13.50:733][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 214895.906250, Update Interval: 305.652649
+[2025.08.01-01.14.32:382][919]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.01-01.14.32:422][919]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23288
+[2025.08.01-01.14.32:757][920]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{c1351fbe-c4e2-4b26-80c4-8f4ea6bebc9b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=85.04
+[2025.08.01-01.14.32:757][920]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.01-01.14.32:759][920]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.01-10.14.48:055][924]LogHttp: Warning: 0000074539053700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.01-10.14.48:055][924]LogHttp: Warning: 0000074539053700: libcurl info message cache 0 (Too old connection (32452 seconds idle), disconnect it)
+[2025.08.01-10.14.48:055][924]LogHttp: Warning: 0000074539053700: libcurl info message cache 1 (Connection 38 seems to be dead)
+[2025.08.01-10.14.48:055][924]LogHttp: Warning: 0000074539053700: libcurl info message cache 2 (Closing connection)
+[2025.08.01-10.14.48:055][924]LogHttp: Warning: 0000074539053700: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.01-10.14.48:055][924]LogHttp: Warning: 0000074539053700: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.08.01-10.14.48:055][924]LogHttp: Warning: 0000074539053700: libcurl info message cache 5 (Closing connection)
+[2025.08.01-10.14.48:055][924]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36474B17-47D4-CB3A-F0BD-E9B6B960D02D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=6cadaedd4ee594b37cba0a8e2fd4066c%7C7851588c64a447f68d11d1ef2854bea8%7C7b54a91d-9dbd-44dc-bd10-6c7428022a5c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.08.01-10.15.25:735][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 247391.687500
+[2025.08.01-10.15.26:735][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-10.15.26:735][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 247392.343750, Update Interval: 353.565491
+[2025.08.01-10.21.51:150][194]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 247774.125000
+[2025.08.01-10.21.52:150][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-10.21.52:150][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 247774.781250, Update Interval: 334.822235
+[2025.08.01-10.28.13:541][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 248153.593750
+[2025.08.01-10.28.14:544][344]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-10.28.14:544][344]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 248154.265625, Update Interval: 300.944855
+[2025.08.01-10.34.04:595][394]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 248501.828125
+[2025.08.01-10.34.05:595][397]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-10.34.05:595][397]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 248502.484375, Update Interval: 348.020874
+[2025.08.01-10.40.42:642][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 248893.781250
+[2025.08.01-10.40.43:642][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-10.40.43:642][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 248894.437500, Update Interval: 327.287201
+[2025.08.01-10.46.40:854][527]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 249461.328125
+[2025.08.01-10.46.41:017][544]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-10.46.41:017][544]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 249461.578125, Update Interval: 353.552673
+[2025.08.01-10.47.30:986][629]LogDerivedDataCache: C:/Users/erwin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.242 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2126 files in 2786 folders with total size 95 MiB.
+[2025.08.01-10.53.30:926][ 68]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 250110.437500
+[2025.08.01-10.53.31:087][ 84]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-10.53.31:087][ 84]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 250110.671875, Update Interval: 337.449890
+[2025.08.01-11.00.01:368][701]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 250729.750000
+[2025.08.01-11.00.01:515][716]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-11.00.01:515][716]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 250729.968750, Update Interval: 306.414368
+[2025.08.01-11.05.53:889][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 251288.359375
+[2025.08.01-11.05.54:049][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-11.05.54:049][468]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 251288.593750, Update Interval: 327.505127
+[2025.08.01-11.12.10:186][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 251884.546875
+[2025.08.01-11.12.10:359][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-11.12.10:360][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 251884.796875, Update Interval: 300.911896
+[2025.08.01-11.15.09:364][105]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.08.01-11.15.09:364][105]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.08.01-11.15.09:373][105]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_5
+[2025.08.01-11.15.09:373][105]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_5
+[2025.08.01-11.15.10:602][203]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.08.01-11.15.10:602][203]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.08.01-11.15.10:605][203]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB284750F8102_1939865496
+[2025.08.01-11.15.10:606][203]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB284750F8102_1939865496
+[2025.08.01-11.16.06:834][361]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.08.01-11.16.06:834][361]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.08.01-11.16.06:835][361]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_6
+[2025.08.01-11.16.06:835][361]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_6
+[2025.08.01-11.16.07:973][451]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.08.01-11.16.07:973][451]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.08.01-11.16.07:976][451]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB284750F8102_1997236497
+[2025.08.01-11.16.07:976][451]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB284750F8102_1997236497
+[2025.08.01-11.16.57:273][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2025.08.01-11.16.57:309][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/CZ/KO6XV2PKX3HDVTMTQ61RE7_Auto2
+[2025.08.01-11.16.57:309][ 26]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/KO6XV2PKX3HDVTMTQ61RE7_Auto269D4B5C4414AF98A5BE7EDB73CB69C9E.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/CZ/KO6XV2PKX3HDVTMTQ61RE7_Auto2.uasset'
+[2025.08.01-11.16.57:314][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MM/3NDKCZK9TNPWTE88VUEPK9_Auto2
+[2025.08.01-11.16.57:314][ 26]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/3NDKCZK9TNPWTE88VUEPK9_Auto2D015C95C4299A54F183AD492F5FA3608.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MM/3NDKCZK9TNPWTE88VUEPK9_Auto2.uasset'
+[2025.08.01-11.16.57:323][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/UN/WJQHEJ6HO2873ZWKLDUCDH_Auto2
+[2025.08.01-11.16.57:323][ 26]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/WJQHEJ6HO2873ZWKLDUCDH_Auto28B866E294F64864ABF4B0B9CD7325395.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/UN/WJQHEJ6HO2873ZWKLDUCDH_Auto2.uasset'
+[2025.08.01-11.16.57:341][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7Y/TZ8WHCBXFV7I677JJ06XUO_Auto2
+[2025.08.01-11.16.57:341][ 26]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/TZ8WHCBXFV7I677JJ06XUO_Auto28BB165714882A199C6FA5F89277AEA0E.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7Y/TZ8WHCBXFV7I677JJ06XUO_Auto2.uasset'
+[2025.08.01-11.16.57:343][ 26]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.206
+[2025.08.01-11.16.57:343][ 26]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.206
+[2025.08.01-11.17.41:728][348]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 252384.796875
+[2025.08.01-11.17.41:896][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-11.17.41:896][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 252385.031250, Update Interval: 333.176056
+[2025.08.01-11.24.11:515][893]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 252987.093750
+[2025.08.01-11.24.11:674][909]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-11.24.11:674][909]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 252987.328125, Update Interval: 301.649841
+[2025.08.01-11.30.01:812][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 253502.281250
+[2025.08.01-11.30.01:977][599]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-11.30.01:977][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 253502.500000, Update Interval: 303.865479
+[2025.08.01-11.31.06:787][586]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-11.31.06:787][586]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.08.01-11.31.06:800][586]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 12 ms (total: 233 ms)
+[2025.08.01-11.31.06:807][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-11.31.06:816][586]PIE: New page: PIE session: ThirdPersonMap (1 Aug 2025, 13:31:06)
+[2025.08.01-11.31.06:838][586]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.31.06:901][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063057s)
+[2025.08.01-11.31.06:901][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.063305s)
+[2025.08.01-11.31.06:942][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.08.01-11.31.06:964][586]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.31.06:980][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-11.31.07:000][586]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.08.01-11.31.07:014][586]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-11.31.07:014][586]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-11.31.07:014][586]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-11.31.07:015][586]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-11.31.07:018][586]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.08.01-11.31.07:023][586]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 501 ms)
+[2025.08.01-11.31.07:024][586]LogPlayLevel: PIE: World Init took: (0.069598s)
+[2025.08.01-11.31.07:026][586]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2025.08.01-11.31.07:028][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-11.31.07:028][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-11.31.07:028][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-11.31.07:028][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-11.31.07:028][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.01-11.31.07:028][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-11.31.07:028][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.01-11.31.07:028][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-11.31.07:035][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-11.31.07:035][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-11.31.07:035][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-11.31.07:042][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-11.31.07:070][586]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.01-11.31.07:075][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-11.31.07:075][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-11.31.07:075][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-11.31.07:097][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2025.08.01-11.31.07:097][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2025.08.01-11.31.07:099][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2025.08.01-11.31.07:102][586]LogInit: FAudioDevice initialized with ID 55.
+[2025.08.01-11.31.07:103][586]LogAudio: Display: Audio Device (ID: 55) registered with world 'ThirdPersonMap'.
+[2025.08.01-11.31.07:103][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2025.08.01-11.31.07:108][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2025.08.01-11.31.07:122][586]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.01-11.31.07:152][586]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.08.01-12.31.07
+[2025.08.01-11.31.07:154][586]LogWorld: Bringing up level for play took: 0.029816
+[2025.08.01-11.31.07:181][586]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2025.08.01-11.31.07:334][586]PIE: Server logged in
+[2025.08.01-11.31.07:336][586]PIE: Play in editor total start time 0.552 seconds.
+[2025.08.01-11.31.13:733][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.31.13:733][238]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.31.13:739][238]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-11.31.13:742][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.31.13:743][238]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.08.01-11.31.13:756][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-11.31.13:762][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.31.13:811][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.31.13:811][238]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2025.08.01-11.31.13:813][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2025.08.01-11.31.13:815][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2025.08.01-11.31.13:834][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.08.01-11.31.13:935][239]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2025.08.01-11.33.52:670][924]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-11.33.52:670][924]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.08.01-11.33.52:677][924]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 7 ms (total: 241 ms)
+[2025.08.01-11.33.52:677][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-11.33.52:677][924]PIE: New page: PIE session: ThirdPersonMap (1 Aug 2025, 13:33:52)
+[2025.08.01-11.33.52:678][924]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.33.52:699][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019963s)
+[2025.08.01-11.33.52:699][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.019999s)
+[2025.08.01-11.33.52:767][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.08.01-11.33.52:774][924]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.33.52:775][924]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-11.33.52:775][924]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.08.01-11.33.52:776][924]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-11.33.52:776][924]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-11.33.52:776][924]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-11.33.52:776][924]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-11.33.52:780][924]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.08.01-11.33.52:780][924]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 505 ms)
+[2025.08.01-11.33.52:780][924]LogPlayLevel: PIE: World Init took: (0.005107s)
+[2025.08.01-11.33.52:780][924]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2025.08.01-11.33.52:780][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-11.33.52:780][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-11.33.52:780][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-11.33.52:780][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-11.33.52:780][924]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.01-11.33.52:780][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-11.33.52:780][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.01-11.33.52:780][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-11.33.52:795][924]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-11.33.52:795][924]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-11.33.52:795][924]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-11.33.52:802][924]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-11.33.52:828][924]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.01-11.33.52:829][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-11.33.52:829][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-11.33.52:829][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-11.33.52:842][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2025.08.01-11.33.52:842][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2025.08.01-11.33.52:844][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2025.08.01-11.33.52:844][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2025.08.01-11.33.52:844][924]LogInit: FAudioDevice initialized with ID 56.
+[2025.08.01-11.33.52:844][924]LogAudio: Display: Audio Device (ID: 56) registered with world 'ThirdPersonMap'.
+[2025.08.01-11.33.52:844][924]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2025.08.01-11.33.52:847][924]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.01-11.33.52:862][924]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.08.01-12.33.52
+[2025.08.01-11.33.52:862][924]LogWorld: Bringing up level for play took: 0.015484
+[2025.08.01-11.33.52:865][924]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2025.08.01-11.33.52:883][924]PIE: Server logged in
+[2025.08.01-11.33.52:883][924]PIE: Play in editor total start time 0.214 seconds.
+[2025.08.01-11.34.07:705][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.34.07:705][459]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.34.07:706][459]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-11.34.07:707][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.34.07:707][459]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.08.01-11.34.07:710][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-11.34.07:715][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.34.07:732][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.34.07:733][459]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2025.08.01-11.34.07:733][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.08.01-11.34.07:736][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.08.01-11.34.07:745][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.08.01-11.34.07:841][460]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2025.08.01-11.34.41:951][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.34.42:020][513]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.34.42:380][515]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.34.42:402][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.35.10:158][913]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2025.08.01-11.35.10:158][913]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2025.08.01-11.35.10:159][913]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_2
+[2025.08.01-11.35.10:166][913]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_2
+[2025.08.01-11.35.11:036][983]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2025.08.01-11.35.11:036][983]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2025.08.01-11.35.11:140][983]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475108102_2066557681
+[2025.08.01-11.35.11:142][983]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475108102_2066557681
+[2025.08.01-11.35.17:264][520]Cmd: DELETE
+[2025.08.01-11.35.17:265][520]Cmd: ACTOR DELETE
+[2025.08.01-11.35.17:308][520]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.08.01-11.35.17:359][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.08.01-11.35.17:368][520]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2025.08.01-11.35.36:844][429]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.35.36:887][430]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.35.36:966][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.36.01:256][966]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2025.08.01-11.36.01:256][966]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2025.08.01-11.36.01:256][966]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_3
+[2025.08.01-11.36.01:259][966]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_3
+[2025.08.01-11.36.03:270][165]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2025.08.01-11.36.03:270][165]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2025.08.01-11.36.03:273][165]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475108102_2118791682
+[2025.08.01-11.36.03:275][165]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475108102_2118791682
+[2025.08.01-11.36.05:345][375]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 254045.453125
+[2025.08.01-11.36.05:504][392]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-11.36.05:504][392]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 254045.703125, Update Interval: 309.155548
+[2025.08.01-11.36.15:620][356]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-11.36.15:620][356]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.08.01-11.36.15:625][356]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 246 ms)
+[2025.08.01-11.36.15:625][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-11.36.15:625][356]PIE: New page: PIE session: ThirdPersonMap (1 Aug 2025, 13:36:15)
+[2025.08.01-11.36.15:675][356]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.36.15:746][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070720s)
+[2025.08.01-11.36.15:746][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.070766s)
+[2025.08.01-11.36.15:774][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.08.01-11.36.15:785][356]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.36.15:785][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-11.36.15:786][356]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.08.01-11.36.15:786][356]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-11.36.15:786][356]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-11.36.15:786][356]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-11.36.15:786][356]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-11.36.15:792][356]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.08.01-11.36.15:793][356]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 511 ms)
+[2025.08.01-11.36.15:793][356]LogPlayLevel: PIE: World Init took: (0.007245s)
+[2025.08.01-11.36.15:793][356]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2025.08.01-11.36.15:793][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-11.36.15:793][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-11.36.15:793][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-11.36.15:793][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-11.36.15:793][356]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.01-11.36.15:793][356]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-11.36.15:793][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.01-11.36.15:793][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-11.36.15:793][356]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-11.36.15:793][356]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-11.36.15:793][356]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-11.36.15:795][356]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-11.36.15:820][356]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.01-11.36.15:820][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-11.36.15:820][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-11.36.15:820][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-11.36.15:851][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2025.08.01-11.36.15:851][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2025.08.01-11.36.15:853][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2025.08.01-11.36.15:853][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2025.08.01-11.36.15:865][356]LogInit: FAudioDevice initialized with ID 57.
+[2025.08.01-11.36.15:865][356]LogAudio: Display: Audio Device (ID: 57) registered with world 'ThirdPersonMap'.
+[2025.08.01-11.36.15:865][356]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2025.08.01-11.36.15:867][356]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.01-11.36.15:875][356]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.08.01-12.36.15
+[2025.08.01-11.36.15:875][356]LogWorld: Bringing up level for play took: 0.007545
+[2025.08.01-11.36.15:890][356]LogOnline: OSS: Created online subsystem instance for: :Context_134
+[2025.08.01-11.36.15:920][356]PIE: Server logged in
+[2025.08.01-11.36.15:921][356]PIE: Play in editor total start time 0.301 seconds.
+[2025.08.01-11.36.24:466][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.36.24:466][306]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.36.24:466][306]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-11.36.24:467][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.36.24:467][306]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.08.01-11.36.24:470][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-11.36.24:476][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.36.24:510][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.01-11.36.24:510][306]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2025.08.01-11.36.24:510][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.08.01-11.36.24:512][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.08.01-11.36.24:517][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.36.24:522][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.08.01-11.36.24:620][307]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2025.08.01-11.36.29:205][744]Cmd: DELETE
+[2025.08.01-11.36.29:205][744]Cmd: ACTOR DELETE
+[2025.08.01-11.36.29:208][744]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.08.01-11.36.29:236][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.08.01-11.36.29:241][744]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.08.01-11.36.42:888][135]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2025.08.01-11.36.42:888][135]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2025.08.01-11.36.42:889][135]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_4
+[2025.08.01-11.36.42:933][135]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_4
+[2025.08.01-11.36.46:582][499]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2025.08.01-11.36.46:582][499]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2025.08.01-11.36.46:583][499]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_5
+[2025.08.01-11.36.46:584][499]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_5
+[2025.08.01-11.36.50:550][867]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2025.08.01-11.36.50:550][867]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2025.08.01-11.36.50:551][867]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_6
+[2025.08.01-11.36.50:553][867]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_6
+[2025.08.01-11.36.51:220][927]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2025.08.01-11.36.51:221][927]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2025.08.01-11.36.51:223][927]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1092999859
+[2025.08.01-11.36.51:225][927]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1092999859
+[2025.08.01-11.36.51:971][965]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.36.51:971][965]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.36.51:971][965]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_7
+[2025.08.01-11.36.51:973][965]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_7
+[2025.08.01-11.36.53:176][ 64]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.36.53:176][ 64]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.36.53:179][ 64]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1094955860
+[2025.08.01-11.36.53:180][ 64]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1094955860
+[2025.08.01-11.36.54:058][114]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2025.08.01-11.36.54:058][114]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2025.08.01-11.36.54:059][114]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_8
+[2025.08.01-11.36.54:061][114]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_8
+[2025.08.01-11.36.55:293][215]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2025.08.01-11.36.55:293][215]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2025.08.01-11.36.55:295][215]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1097072861
+[2025.08.01-11.36.55:297][215]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1097072861
+[2025.08.01-11.36.56:101][261]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2025.08.01-11.36.56:101][261]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2025.08.01-11.36.56:102][261]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_9
+[2025.08.01-11.36.56:102][261]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_9.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.56:102][261]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_9.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.56:102][261]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_9.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.56:103][261]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_9
+[2025.08.01-11.36.56:103][261]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_9.SkeletalMeshComponent0.AnimSingleNodeInstance_2) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.56:103][261]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_9.SkeletalMeshComponent0.AnimSingleNodeInstance_2) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.56:104][261]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_9.SkeletalMeshComponent0.AnimSingleNodeInstance_2) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.56:104][261]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_9.SkeletalMeshComponent0.AnimSingleNodeInstance_3) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.56:104][261]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_9.SkeletalMeshComponent0.AnimSingleNodeInstance_3) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.56:105][261]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_9.SkeletalMeshComponent0.AnimSingleNodeInstance_4) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.56:105][261]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_9.SkeletalMeshComponent0.AnimSingleNodeInstance_4) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.57:014][332]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2025.08.01-11.36.57:014][332]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2025.08.01-11.36.57:017][332]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862
+[2025.08.01-11.36.57:017][332]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.57:017][332]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.57:017][332]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.57:018][332]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862
+[2025.08.01-11.36.57:018][332]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_2) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.57:018][332]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_2) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.57:019][332]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_2) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.57:019][332]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_3) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.57:019][332]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_3) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.57:045][332]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_4) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.57:045][332]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_4) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.36.57:806][383]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2025.08.01-11.36.57:806][383]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2025.08.01-11.36.57:807][383]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_10
+[2025.08.01-11.36.57:808][383]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_10
+[2025.08.01-11.36.58:941][473]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2025.08.01-11.36.58:941][473]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2025.08.01-11.36.58:949][473]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1100720863
+[2025.08.01-11.36.58:951][473]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1100720863
+[2025.08.01-11.37.00:671][584]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2025.08.01-11.37.00:671][584]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2025.08.01-11.37.00:672][584]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_11
+[2025.08.01-11.37.00:673][584]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_11
+[2025.08.01-11.37.02:286][714]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2025.08.01-11.37.02:286][714]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2025.08.01-11.37.02:289][714]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1104065864
+[2025.08.01-11.37.02:290][714]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1104065864
+[2025.08.01-11.37.05:412][929]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-11.37.05:412][929]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.08.01-11.37.05:416][929]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 250 ms)
+[2025.08.01-11.37.05:416][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-11.37.05:416][929]PIE: New page: PIE session: ThirdPersonMap (1 Aug 2025, 13:37:05)
+[2025.08.01-11.37.05:444][929]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.37.05:459][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014840s)
+[2025.08.01-11.37.05:459][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.014885s)
+[2025.08.01-11.37.05:487][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.08.01-11.37.05:495][929]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.37.05:495][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-11.37.05:496][929]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.08.01-11.37.05:497][929]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-11.37.05:497][929]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-11.37.05:497][929]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-11.37.05:497][929]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-11.37.05:500][929]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.08.01-11.37.05:500][929]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 514 ms)
+[2025.08.01-11.37.05:500][929]LogPlayLevel: PIE: World Init took: (0.005031s)
+[2025.08.01-11.37.05:500][929]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2025.08.01-11.37.05:500][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-11.37.05:500][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-11.37.05:500][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-11.37.05:500][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-11.37.05:500][929]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.01-11.37.05:500][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-11.37.05:500][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.01-11.37.05:500][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-11.37.05:501][929]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-11.37.05:501][929]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-11.37.05:501][929]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-11.37.05:503][929]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-11.37.05:529][929]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.01-11.37.05:529][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-11.37.05:529][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-11.37.05:529][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-11.37.05:554][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2025.08.01-11.37.05:554][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2025.08.01-11.37.05:556][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2025.08.01-11.37.05:556][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2025.08.01-11.37.05:556][929]LogInit: FAudioDevice initialized with ID 58.
+[2025.08.01-11.37.05:556][929]LogAudio: Display: Audio Device (ID: 58) registered with world 'ThirdPersonMap'.
+[2025.08.01-11.37.05:556][929]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2025.08.01-11.37.05:559][929]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.01-11.37.05:566][929]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.37.05:566][929]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.37.05:596][929]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.08.01-12.37.05
+[2025.08.01-11.37.05:596][929]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.37.05:596][929]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1098793862.SkeletalMeshComponent0.AnimSingleNodeInstance_1) is not allowed. This will not function correctly in cooked builds!
+[2025.08.01-11.37.05:597][929]LogWorld: Bringing up level for play took: 0.037691
+[2025.08.01-11.37.05:600][929]LogOnline: OSS: Created online subsystem instance for: :Context_135
+[2025.08.01-11.37.05:620][929]PIE: Server logged in
+[2025.08.01-11.37.05:621][929]PIE: Play in editor total start time 0.209 seconds.
+[2025.08.01-11.37.54:075][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.37.54:075][151]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.37.54:075][151]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-11.37.54:077][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.37.54:077][151]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.08.01-11.37.54:080][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-11.37.54:086][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.37.54:103][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.01-11.37.54:103][151]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2025.08.01-11.37.54:103][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.08.01-11.37.54:105][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.08.01-11.37.54:118][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.37.54:125][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.08.01-11.37.54:257][152]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2025.08.01-11.38.10:056][684]Cmd: DELETE
+[2025.08.01-11.38.10:056][684]Cmd: ACTOR DELETE
+[2025.08.01-11.38.10:059][684]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.08.01-11.38.10:061][684]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.08.01-11.38.10:061][684]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.08.01-11.38.10:062][684]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.08.01-11.38.10:063][684]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.08.01-11.38.10:064][684]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.08.01-11.38.10:082][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.08.01-11.38.10:089][684]LogEditorActor: Deleted 6 Actors (0.032 secs)
+[2025.08.01-11.38.18:100][539]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.38.18:100][539]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.38.18:100][539]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_12
+[2025.08.01-11.38.18:102][539]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_12
+[2025.08.01-11.38.20:144][752]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.38.20:144][752]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.38.20:184][752]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1181923865
+[2025.08.01-11.38.20:186][752]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1181923865
+[2025.08.01-11.38.27:841][487]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.38.27:841][487]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.38.27:841][487]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_13
+[2025.08.01-11.38.27:843][487]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_13
+[2025.08.01-11.38.28:872][575]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.38.28:872][575]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.38.28:889][575]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1190651866
+[2025.08.01-11.38.28:891][575]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1190651866
+[2025.08.01-11.38.45:758][171]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2025.08.01-11.38.45:758][171]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2025.08.01-11.38.45:759][171]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_14
+[2025.08.01-11.38.45:761][171]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_14
+[2025.08.01-11.38.47:730][342]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2025.08.01-11.38.47:730][342]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2025.08.01-11.38.47:733][342]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1209509867
+[2025.08.01-11.38.47:734][342]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1209509867
+[2025.08.01-11.39.06:736][117]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-11.39.06:736][117]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.08.01-11.39.06:741][117]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 255 ms)
+[2025.08.01-11.39.06:741][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-11.39.06:741][117]PIE: New page: PIE session: ThirdPersonMap (1 Aug 2025, 13:39:06)
+[2025.08.01-11.39.06:742][117]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.39.06:757][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015427s)
+[2025.08.01-11.39.06:757][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.015463s)
+[2025.08.01-11.39.06:807][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.08.01-11.39.06:813][117]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.39.06:813][117]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-11.39.06:814][117]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.08.01-11.39.06:815][117]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-11.39.06:815][117]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-11.39.06:815][117]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-11.39.06:815][117]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-11.39.06:819][117]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.08.01-11.39.06:819][117]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 518 ms)
+[2025.08.01-11.39.06:819][117]LogPlayLevel: PIE: World Init took: (0.005612s)
+[2025.08.01-11.39.06:819][117]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2025.08.01-11.39.06:819][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-11.39.06:819][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-11.39.06:819][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-11.39.06:819][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-11.39.06:819][117]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.01-11.39.06:819][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-11.39.06:819][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.01-11.39.06:819][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-11.39.06:820][117]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-11.39.06:820][117]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-11.39.06:820][117]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-11.39.06:822][117]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-11.39.06:847][117]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.01-11.39.06:847][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-11.39.06:847][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-11.39.06:847][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-11.39.06:848][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2025.08.01-11.39.06:848][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2025.08.01-11.39.06:850][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2025.08.01-11.39.06:850][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2025.08.01-11.39.06:850][117]LogInit: FAudioDevice initialized with ID 59.
+[2025.08.01-11.39.06:850][117]LogAudio: Display: Audio Device (ID: 59) registered with world 'ThirdPersonMap'.
+[2025.08.01-11.39.06:850][117]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2025.08.01-11.39.06:853][117]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.01-11.39.06:860][117]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.08.01-12.39.06
+[2025.08.01-11.39.06:861][117]LogWorld: Bringing up level for play took: 0.007739
+[2025.08.01-11.39.06:872][117]LogOnline: OSS: Created online subsystem instance for: :Context_136
+[2025.08.01-11.39.06:876][117]PIE: Server logged in
+[2025.08.01-11.39.06:878][117]PIE: Play in editor total start time 0.141 seconds.
+[2025.08.01-11.39.25:285][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.39.25:285][152]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.39.25:285][152]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-11.39.25:287][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.39.25:287][152]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.08.01-11.39.25:290][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-11.39.25:295][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.39.25:314][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.01-11.39.25:314][152]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2025.08.01-11.39.25:314][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.08.01-11.39.25:316][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.08.01-11.39.25:320][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.39.25:325][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.08.01-11.39.25:467][153]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2025.08.01-11.39.50:290][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Props/BP_DoorVertical.BP_DoorVertical
+[2025.08.01-11.39.50:299][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.39.50:299][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-11.40.45:827][665]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Props/BP_Door.BP_Door
+[2025.08.01-11.40.45:827][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.40.45:828][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-11.42.02:079][108]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 254525.265625
+[2025.08.01-11.42.02:259][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-11.42.02:259][119]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 254525.421875, Update Interval: 344.296387
+[2025.08.01-11.44.18:521][481]BlueprintLog: New page: Compile BP_DoorVertical
+[2025.08.01-11.44.18:734][481]LogUObjectHash: Compacting FUObjectHashTables data took  13.77ms
+[2025.08.01-11.44.19:679][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-11.44.19:783][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/BP_DoorVertical" FILE="C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/StarterContent/Props/BP_DoorVertical.uasset" SILENT=true
+[2025.08.01-11.44.19:821][529]LogSavePackage: Moving output files for package: /Game/StarterContent/Props/BP_DoorVertical
+[2025.08.01-11.44.19:821][529]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/BP_DoorVertical7244ED08476C99EBCE2395AEACA0172F.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/StarterContent/Props/BP_DoorVertical.uasset'
+[2025.08.01-11.44.19:832][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 6.62 sec)
+[2025.08.01-11.44.19:840][529]AssetCheck: New page: Asset Save: BP_DoorVertical
+[2025.08.01-11.44.19:840][529]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Props/BP_DoorVertical.BP_DoorVertical
+[2025.08.01-11.44.21:869][661]LogSlate: Window 'BP_Door' being destroyed
+[2025.08.01-11.44.21:874][661]LogSlate: Window 'BP_Door' being destroyed
+[2025.08.01-11.44.21:878][661]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-11.44.21:878][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.44.21:925][661]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.01-11.44.21:925][661]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-11.44.21:925][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.44.27:388][128]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Props/BP_DoorVertical.BP_DoorVertical
+[2025.08.01-11.44.27:388][128]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.44.27:388][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-11.44.39:167][792]BlueprintLog: New page: Compile BP_DoorVertical
+[2025.08.01-11.44.39:281][792]LogUObjectHash: Compacting FUObjectHashTables data took  12.98ms
+[2025.08.01-11.44.39:985][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-11.44.40:057][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/BP_DoorVertical" FILE="C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/StarterContent/Props/BP_DoorVertical.uasset" SILENT=true
+[2025.08.01-11.44.40:065][823]LogSavePackage: Moving output files for package: /Game/StarterContent/Props/BP_DoorVertical
+[2025.08.01-11.44.40:065][823]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/BP_DoorVertical31F6CF7248037E68BC168F9CF6D33D6C.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/StarterContent/Props/BP_DoorVertical.uasset'
+[2025.08.01-11.44.40:074][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 6.70 sec)
+[2025.08.01-11.44.40:075][823]AssetCheck: New page: Asset Save: BP_DoorVertical
+[2025.08.01-11.44.40:075][823]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Props/BP_DoorVertical.BP_DoorVertical
+[2025.08.01-11.44.41:306][898]LogSlate: Window 'BP_DoorVertical' being destroyed
+[2025.08.01-11.44.41:310][898]LogSlate: Window 'BP_DoorVertical' being destroyed
+[2025.08.01-11.44.41:314][898]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-11.44.41:314][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.45.11:285][539]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.08.01-11.45.11:285][539]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.08.01-11.45.11:286][539]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_15
+[2025.08.01-11.45.11:290][539]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_15
+[2025.08.01-11.45.13:922][790]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.08.01-11.45.13:922][790]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.08.01-11.45.13:973][790]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1595701868
+[2025.08.01-11.45.13:977][790]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1595701868
+[2025.08.01-11.45.15:815][976]Cmd: DELETE
+[2025.08.01-11.45.15:815][976]Cmd: ACTOR DELETE
+[2025.08.01-11.45.15:821][976]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.08.01-11.45.15:866][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.08.01-11.45.15:879][976]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2025.08.01-11.45.18:771][232]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.45.18:771][232]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.45.18:772][232]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_16
+[2025.08.01-11.45.18:773][232]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_16
+[2025.08.01-11.45.20:371][391]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.45.20:371][391]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.08.01-11.45.20:377][391]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1602150869
+[2025.08.01-11.45.20:378][391]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1602150869
+[2025.08.01-11.45.46:614][974]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.01-11.45.46:619][974]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-11.45.46:619][974]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.08.01-11.45.46:623][974]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 259 ms)
+[2025.08.01-11.45.46:623][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-11.45.46:623][974]PIE: New page: PIE session: ThirdPersonMap (1 Aug 2025, 13:45:46)
+[2025.08.01-11.45.46:624][974]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.45.46:638][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014815s)
+[2025.08.01-11.45.46:638][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.014868s)
+[2025.08.01-11.45.46:655][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.08.01-11.45.46:659][974]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.45.46:659][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-11.45.46:660][974]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.08.01-11.45.46:660][974]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-11.45.46:660][974]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-11.45.46:660][974]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-11.45.46:660][974]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-11.45.46:664][974]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.08.01-11.45.46:664][974]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 522 ms)
+[2025.08.01-11.45.46:664][974]LogPlayLevel: PIE: World Init took: (0.005058s)
+[2025.08.01-11.45.46:664][974]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2025.08.01-11.45.46:664][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-11.45.46:664][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-11.45.46:664][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-11.45.46:664][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-11.45.46:664][974]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.01-11.45.46:664][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-11.45.46:664][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.01-11.45.46:664][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-11.45.46:664][974]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-11.45.46:664][974]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-11.45.46:665][974]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-11.45.46:667][974]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-11.45.46:695][974]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.01-11.45.46:695][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-11.45.46:695][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-11.45.46:695][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-11.45.46:696][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2025.08.01-11.45.46:696][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2025.08.01-11.45.46:698][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2025.08.01-11.45.46:698][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2025.08.01-11.45.46:698][974]LogInit: FAudioDevice initialized with ID 60.
+[2025.08.01-11.45.46:698][974]LogAudio: Display: Audio Device (ID: 60) registered with world 'ThirdPersonMap'.
+[2025.08.01-11.45.46:698][974]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2025.08.01-11.45.46:700][974]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.01-11.45.46:709][974]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.08.01-12.45.46
+[2025.08.01-11.45.46:710][974]LogWorld: Bringing up level for play took: 0.008703
+[2025.08.01-11.45.46:712][974]LogOnline: OSS: Created online subsystem instance for: :Context_140
+[2025.08.01-11.45.46:717][974]PIE: Server logged in
+[2025.08.01-11.45.46:718][974]PIE: Play in editor total start time 0.098 seconds.
+[2025.08.01-11.47.30:856][615]LogDerivedDataCache: C:/Users/erwin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.112 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2126 files in 2786 folders with total size 95 MiB.
+[2025.08.01-11.47.39:038][521]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=480.36 Y=-52.08 Z=0.00 Location: X=2749.96 Y=2370.28 Z=693.15 Normal: X=0.45 Y=0.90 Z=0.00 PenetrationDepth:0.997 Actor:Door_C_UAID_D843AEB284753B8002_1114251137 Component:SM_Door2 BoneName:None (0 other events since notify)
+[2025.08.01-11.48.23:843][473]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 255051.890625
+[2025.08.01-11.48.24:009][492]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-11.48.24:009][492]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 255052.171875, Update Interval: 324.544220
+[2025.08.01-11.48.31:714][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.48.31:714][390]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.48.31:714][390]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-11.48.31:714][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.48.31:715][390]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.08.01-11.48.31:718][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-11.48.31:723][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.48.31:741][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.48.31:742][390]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2025.08.01-11.48.31:742][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.08.01-11.48.31:745][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.08.01-11.48.31:755][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.08.01-11.48.31:834][391]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2025.08.01-11.49.00:312][110]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.08.01-11.49.00:312][110]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.08.01-11.49.00:313][110]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_7
+[2025.08.01-11.49.00:313][110]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_7
+[2025.08.01-11.49.01:549][211]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.08.01-11.49.01:549][211]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.08.01-11.49.01:570][211]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475118102_1823328870
+[2025.08.01-11.49.01:571][211]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475118102_1823328870
+[2025.08.01-11.50.25:325][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.08.01-11.50.25:335][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HI/6DHQJLGF1TXN2ACNKDQK68_Auto3
+[2025.08.01-11.50.25:335][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/6DHQJLGF1TXN2ACNKDQK68_Auto3326C24334F9909D841C7E0B8D5A44765.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HI/6DHQJLGF1TXN2ACNKDQK68_Auto3.uasset'
+[2025.08.01-11.50.25:338][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YJ/IFFWREDG4667LEH7K7Q37P_Auto3
+[2025.08.01-11.50.25:338][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/IFFWREDG4667LEH7K7Q37P_Auto30B206017497D38BD3B02698EAE402339.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YJ/IFFWREDG4667LEH7K7Q37P_Auto3.uasset'
+[2025.08.01-11.50.25:341][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IE/9BWJKJPKKKFZ2FC749KS7W_Auto3
+[2025.08.01-11.50.25:341][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/9BWJKJPKKKFZ2FC749KS7W_Auto3E45822B44F65066FF28BA7BE2624890B.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IE/9BWJKJPKKKFZ2FC749KS7W_Auto3.uasset'
+[2025.08.01-11.50.25:344][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9D/H3YBQJGJGAW8UIGNCF6DJP_Auto3
+[2025.08.01-11.50.25:344][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/H3YBQJGJGAW8UIGNCF6DJP_Auto3CD71BB964750805208F6479D2DE035A7.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9D/H3YBQJGJGAW8UIGNCF6DJP_Auto3.uasset'
+[2025.08.01-11.50.25:381][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BC/81PK60B8HELPZ65BL3YW4E_Auto3
+[2025.08.01-11.50.25:381][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/81PK60B8HELPZ65BL3YW4E_Auto3F4B84B974910E758B7B049B1459AD1BC.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BC/81PK60B8HELPZ65BL3YW4E_Auto3.uasset'
+[2025.08.01-11.50.25:383][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2B/T67ZTC0242R015OKIQK77S_Auto3
+[2025.08.01-11.50.25:383][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/T67ZTC0242R015OKIQK77S_Auto3B76F0C194BEFA1DD3A99A08A7ED12C4B.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2B/T67ZTC0242R015OKIQK77S_Auto3.uasset'
+[2025.08.01-11.50.25:386][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/II/IGT8Z20H457ZLLHDB1WOZ1_Auto3
+[2025.08.01-11.50.25:386][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/IGT8Z20H457ZLLHDB1WOZ1_Auto3D5BD4594466A43F3B4790B8A41CA1865.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/II/IGT8Z20H457ZLLHDB1WOZ1_Auto3.uasset'
+[2025.08.01-11.50.25:389][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3B/LI4OSJ1AEILRJAU0YCPUX4_Auto3
+[2025.08.01-11.50.25:389][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/LI4OSJ1AEILRJAU0YCPUX4_Auto3F291A0424EDE8050CEE87FAAE858805F.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3B/LI4OSJ1AEILRJAU0YCPUX4_Auto3.uasset'
+[2025.08.01-11.50.25:391][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EM/93FU54MLJMZD7BE2O251YT_Auto3
+[2025.08.01-11.50.25:391][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/93FU54MLJMZD7BE2O251YT_Auto339FEB4B741F5E66608B69D871D606C51.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EM/93FU54MLJMZD7BE2O251YT_Auto3.uasset'
+[2025.08.01-11.50.25:394][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O3/FXUTN2GZACZTNLEFPIHMUE_Auto3
+[2025.08.01-11.50.25:394][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/FXUTN2GZACZTNLEFPIHMUE_Auto32473F7FF4B985ED3AF2D72B9C8597D0C.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O3/FXUTN2GZACZTNLEFPIHMUE_Auto3.uasset'
+[2025.08.01-11.50.25:396][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/UN/WJQHEJ6HO2873ZWKLDUCDH_Auto3
+[2025.08.01-11.50.25:396][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/WJQHEJ6HO2873ZWKLDUCDH_Auto3FE2A8BAC48F9AADAAB388DBF73A448FC.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/UN/WJQHEJ6HO2873ZWKLDUCDH_Auto3.uasset'
+[2025.08.01-11.50.25:398][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7Y/TZ8WHCBXFV7I677JJ06XUO_Auto3
+[2025.08.01-11.50.25:398][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/TZ8WHCBXFV7I677JJ06XUO_Auto36568E7264BC1AEA6725E78A79DD2C353.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7Y/TZ8WHCBXFV7I677JJ06XUO_Auto3.uasset'
+[2025.08.01-11.50.25:401][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/BG/PATS32D8BR9PKG5PHTYNTD_Auto3
+[2025.08.01-11.50.25:401][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/PATS32D8BR9PKG5PHTYNTD_Auto34DD0475D433D84227F3C13AFFB55CB94.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/BG/PATS32D8BR9PKG5PHTYNTD_Auto3.uasset'
+[2025.08.01-11.50.25:405][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/6P/JOBE0Q9ZPHZAG3RV8HWONY_Auto3
+[2025.08.01-11.50.25:405][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/JOBE0Q9ZPHZAG3RV8HWONY_Auto33D3B51704302BE833BC984AB474FD594.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/6P/JOBE0Q9ZPHZAG3RV8HWONY_Auto3.uasset'
+[2025.08.01-11.50.25:409][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/0Y/UP0HCL5ISVLBNWF6SCEG17_Auto3
+[2025.08.01-11.50.25:409][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/UP0HCL5ISVLBNWF6SCEG17_Auto3BA246D314F497D749F6BA6844B2895DD.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/0Y/UP0HCL5ISVLBNWF6SCEG17_Auto3.uasset'
+[2025.08.01-11.50.25:411][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/57/Z0FTG9SEG79H53XP3PLN8S_Auto3
+[2025.08.01-11.50.25:411][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Z0FTG9SEG79H53XP3PLN8S_Auto3459A16D248239701E0BD12BF8086BE2F.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/57/Z0FTG9SEG79H53XP3PLN8S_Auto3.uasset'
+[2025.08.01-11.50.25:415][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/QF/FUPKTPK9UZJAKFNHSCZQJX_Auto3
+[2025.08.01-11.50.25:415][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/FUPKTPK9UZJAKFNHSCZQJX_Auto30EF3241B495D646316192EB5466BD148.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/QF/FUPKTPK9UZJAKFNHSCZQJX_Auto3.uasset'
+[2025.08.01-11.50.25:417][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XE/U5L9D02JE70HBBZCWIEUI3_Auto3
+[2025.08.01-11.50.25:417][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/U5L9D02JE70HBBZCWIEUI3_Auto3046F9DB8478CB02DCCBE968B141C8451.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XE/U5L9D02JE70HBBZCWIEUI3_Auto3.uasset'
+[2025.08.01-11.50.25:421][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EN/Z433XZ05D6SD0AB0D9EGW5_Auto3
+[2025.08.01-11.50.25:421][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Z433XZ05D6SD0AB0D9EGW5_Auto36F5D7A6B48762BFA44AE868A19CC1C70.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EN/Z433XZ05D6SD0AB0D9EGW5_Auto3.uasset'
+[2025.08.01-11.50.25:424][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/TP/KFAB3Y5Z2HTO1QZ4VL3LPY_Auto3
+[2025.08.01-11.50.25:424][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/KFAB3Y5Z2HTO1QZ4VL3LPY_Auto35EA24FF64789AEAFA2C37AB8E351A8CA.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/TP/KFAB3Y5Z2HTO1QZ4VL3LPY_Auto3.uasset'
+[2025.08.01-11.50.25:427][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CW/573PX0LBVD6ASD08ZI3M2G_Auto3
+[2025.08.01-11.50.25:427][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/573PX0LBVD6ASD08ZI3M2G_Auto32DBDF0954AEDCA05D798309A10A0E046.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CW/573PX0LBVD6ASD08ZI3M2G_Auto3.uasset'
+[2025.08.01-11.50.25:434][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JD/DWS5L6LTAL5XO4FPU4VIHX_Auto3
+[2025.08.01-11.50.25:434][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/DWS5L6LTAL5XO4FPU4VIHX_Auto3F24878DA49BF64F5D6C3278C1B4105E3.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JD/DWS5L6LTAL5XO4FPU4VIHX_Auto3.uasset'
+[2025.08.01-11.50.25:437][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CM/67R3MLLV67TDC6MC7T2SEV_Auto3
+[2025.08.01-11.50.25:437][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/67R3MLLV67TDC6MC7T2SEV_Auto3F9C9ED864B363BFAC51A69B6153DCD5A.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CM/67R3MLLV67TDC6MC7T2SEV_Auto3.uasset'
+[2025.08.01-11.50.25:438][670]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.131
+[2025.08.01-11.50.25:438][670]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.131
+[2025.08.01-11.50.25:449][670]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/BP_Door] ([2] browsable assets)...
+[2025.08.01-11.50.25:449][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/BP_Door]
+[2025.08.01-11.50.25:458][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Props/BP_Door_Auto3
+[2025.08.01-11.50.25:458][670]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/BP_Door_Auto3215D4908414E0DCECC1884A26CCE3078.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/StarterContent/Props/BP_Door_Auto3.uasset'
+[2025.08.01-11.50.25:459][670]LogFileHelpers: Auto-saving content packages took 0.020
+[2025.08.01-11.54.45:505][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 255640.515625
+[2025.08.01-11.54.45:674][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-11.54.45:674][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 255640.734375, Update Interval: 301.906189
+[2025.08.01-11.56.29:220][123]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.01-11.56.29:238][123]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-11.56.29:238][123]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.08.01-11.56.29:242][123]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 264 ms)
+[2025.08.01-11.56.29:242][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-11.56.29:242][123]PIE: New page: PIE session: ThirdPersonMap (1 Aug 2025, 13:56:29)
+[2025.08.01-11.56.29:282][123]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.56.29:296][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014921s)
+[2025.08.01-11.56.29:297][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.014970s)
+[2025.08.01-11.56.29:313][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.08.01-11.56.29:316][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.56.29:316][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-11.56.29:317][123]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.08.01-11.56.29:317][123]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-11.56.29:317][123]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-11.56.29:317][123]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-11.56.29:317][123]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-11.56.29:321][123]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.08.01-11.56.29:321][123]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 526 ms)
+[2025.08.01-11.56.29:321][123]LogPlayLevel: PIE: World Init took: (0.005188s)
+[2025.08.01-11.56.29:321][123]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2025.08.01-11.56.29:321][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-11.56.29:321][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-11.56.29:321][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-11.56.29:321][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-11.56.29:321][123]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.01-11.56.29:321][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-11.56.29:321][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.01-11.56.29:321][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-11.56.29:322][123]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-11.56.29:322][123]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-11.56.29:322][123]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-11.56.29:325][123]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-11.56.29:351][123]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.01-11.56.29:351][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-11.56.29:351][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-11.56.29:351][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-11.56.29:352][123]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2025.08.01-11.56.29:352][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2025.08.01-11.56.29:354][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2025.08.01-11.56.29:354][123]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2025.08.01-11.56.29:354][123]LogInit: FAudioDevice initialized with ID 61.
+[2025.08.01-11.56.29:354][123]LogAudio: Display: Audio Device (ID: 61) registered with world 'ThirdPersonMap'.
+[2025.08.01-11.56.29:354][123]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2025.08.01-11.56.29:356][123]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.01-11.56.29:364][123]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.08.01-12.56.29
+[2025.08.01-11.56.29:365][123]LogWorld: Bringing up level for play took: 0.008534
+[2025.08.01-11.56.29:367][123]LogOnline: OSS: Created online subsystem instance for: :Context_141
+[2025.08.01-11.56.29:385][123]PIE: Server logged in
+[2025.08.01-11.56.29:386][123]PIE: Play in editor total start time 0.148 seconds.
+[2025.08.01-11.56.54:041][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.56.54:041][878]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-11.56.54:042][878]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-11.56.54:043][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.56.54:043][878]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.08.01-11.56.54:047][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-11.56.54:052][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-11.56.54:069][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-11.56.54:070][878]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2025.08.01-11.56.54:070][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.08.01-11.56.54:072][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.08.01-11.56.54:081][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.08.01-11.56.54:146][879]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2025.08.01-11.57.07:907][ 63]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Props/BP_Key.BP_Key
+[2025.08.01-11.57.07:908][ 63]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-11.57.07:908][ 63]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-11.57.10:195][170]LogViewport: Scene viewport resized to 1102x607, mode Windowed.
+[2025.08.01-12.00.35:816][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 256054.562500
+[2025.08.01-12.00.35:993][737]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-12.00.35:993][737]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 256054.734375, Update Interval: 349.489441
+[2025.08.01-12.03.44:185][ 37]BlueprintLog: New page: Compile BP_Key
+[2025.08.01-12.03.44:314][ 37]LogUObjectHash: Compacting FUObjectHashTables data took  56.12ms
+[2025.08.01-12.04.00:408][978]BlueprintLog: New page: Compile BP_Key
+[2025.08.01-12.04.00:472][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.08.01-12.04.01:678][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-12.04.01:747][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/BP_Key" FILE="C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/StarterContent/Props/BP_Key.uasset" SILENT=true
+[2025.08.01-12.04.01:761][ 37]LogSavePackage: Moving output files for package: /Game/StarterContent/Props/BP_Key
+[2025.08.01-12.04.01:762][ 37]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/BP_Key3845BB4C488B00731EE6C8B805E3E265.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/StarterContent/Props/BP_Key.uasset'
+[2025.08.01-12.04.01:771][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.80 sec)
+[2025.08.01-12.04.01:778][ 37]AssetCheck: New page: Asset Save: BP_Key
+[2025.08.01-12.04.01:778][ 37]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Props/BP_Key.BP_Key
+[2025.08.01-12.04.03:430][130]LogSlate: Window 'BP_Key' being destroyed
+[2025.08.01-12.04.03:440][130]LogSlate: Window 'BP_Key' being destroyed
+[2025.08.01-12.04.03:444][130]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-12.04.03:444][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-12.04.06:965][464]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.01-12.04.06:970][464]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-12.04.06:970][464]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.08.01-12.04.06:974][464]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 269 ms)
+[2025.08.01-12.04.06:975][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-12.04.06:975][464]PIE: New page: PIE session: ThirdPersonMap (1 Aug 2025, 14:04:06)
+[2025.08.01-12.04.06:975][464]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-12.04.06:990][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015417s)
+[2025.08.01-12.04.06:990][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.015450s)
+[2025.08.01-12.04.07:008][464]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2025.08.01-12.04.07:018][464]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-12.04.07:018][464]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-12.04.07:019][464]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.08.01-12.04.07:019][464]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-12.04.07:019][464]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-12.04.07:019][464]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-12.04.07:019][464]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-12.04.07:023][464]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.08.01-12.04.07:023][464]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 530 ms)
+[2025.08.01-12.04.07:023][464]LogPlayLevel: PIE: World Init took: (0.005460s)
+[2025.08.01-12.04.07:024][464]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2025.08.01-12.04.07:024][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-12.04.07:024][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-12.04.07:024][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-12.04.07:024][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-12.04.07:024][464]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.01-12.04.07:024][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-12.04.07:024][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.01-12.04.07:024][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-12.04.07:024][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-12.04.07:024][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-12.04.07:024][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-12.04.07:063][464]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-12.04.07:090][464]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.01-12.04.07:090][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-12.04.07:090][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-12.04.07:090][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-12.04.07:091][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2025.08.01-12.04.07:091][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2025.08.01-12.04.07:093][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2025.08.01-12.04.07:093][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2025.08.01-12.04.07:093][464]LogInit: FAudioDevice initialized with ID 62.
+[2025.08.01-12.04.07:093][464]LogAudio: Display: Audio Device (ID: 62) registered with world 'ThirdPersonMap'.
+[2025.08.01-12.04.07:093][464]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 62
+[2025.08.01-12.04.07:096][464]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.01-12.04.07:104][464]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.08.01-13.04.07
+[2025.08.01-12.04.07:105][464]LogWorld: Bringing up level for play took: 0.008478
+[2025.08.01-12.04.07:107][464]LogOnline: OSS: Created online subsystem instance for: :Context_143
+[2025.08.01-12.04.07:112][464]PIE: Server logged in
+[2025.08.01-12.04.07:112][464]PIE: Play in editor total start time 0.143 seconds.
+[2025.08.01-12.04.32:400][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-12.04.32:400][983]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-12.04.32:401][983]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-12.04.32:402][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-12.04.32:402][983]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.08.01-12.04.32:405][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-12.04.32:411][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-12.04.32:430][983]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.01-12.04.32:430][983]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 62
+[2025.08.01-12.04.32:431][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2025.08.01-12.04.32:433][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2025.08.01-12.04.32:437][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-12.04.32:460][983]LogUObjectHash: Compacting FUObjectHashTables data took  19.02ms
+[2025.08.01-12.04.32:521][984]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2025.08.01-12.04.35:137][208]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Props/BP_Key.BP_Key
+[2025.08.01-12.04.35:138][208]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-12.04.35:138][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-12.04.36:814][286]LogViewport: Scene viewport resized to 1102x607, mode Windowed.
+[2025.08.01-12.06.08:287][830]BlueprintLog: New page: Compile BP_Key
+[2025.08.01-12.06.08:337][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.08.01-12.06.09:624][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-12.06.09:682][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/BP_Key" FILE="C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/StarterContent/Props/BP_Key.uasset" SILENT=true
+[2025.08.01-12.06.09:689][893]LogSavePackage: Moving output files for package: /Game/StarterContent/Props/BP_Key
+[2025.08.01-12.06.09:690][893]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/BP_Key44032DFA4AD4C8CEFC121B9D28CEE6B6.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/StarterContent/Props/BP_Key.uasset'
+[2025.08.01-12.06.09:699][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 6.87 sec)
+[2025.08.01-12.06.09:700][893]AssetCheck: New page: Asset Save: BP_Key
+[2025.08.01-12.06.09:700][893]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Props/BP_Key.BP_Key
+[2025.08.01-12.06.15:862][243]LogSlate: Window 'BP_Key' being destroyed
+[2025.08.01-12.06.15:869][243]LogSlate: Window 'BP_Key' being destroyed
+[2025.08.01-12.06.15:882][243]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-12.06.15:882][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-12.06.17:936][437]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.01-12.06.17:945][437]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-12.06.17:945][437]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.08.01-12.06.17:949][437]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 273 ms)
+[2025.08.01-12.06.17:949][437]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.08.01-12.06.17:950][437]LogPlayLevel: [PlayLevel] Compiling BP_Key before play...
+[2025.08.01-12.06.17:999][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.08.01-12.06.18:006][437]LogPlayLevel: PlayLevel: Blueprint regeneration took 56 ms (1 blueprints)
+[2025.08.01-12.06.18:006][437]PIE: New page: PIE session: ThirdPersonMap (1 Aug 2025, 14:06:18)
+[2025.08.01-12.06.18:039][437]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-12.06.18:055][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014678s)
+[2025.08.01-12.06.18:055][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.014722s)
+[2025.08.01-12.06.18:069][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.01-12.06.18:071][437]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-12.06.18:071][437]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-12.06.18:072][437]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.08.01-12.06.18:072][437]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-12.06.18:072][437]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-12.06.18:072][437]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-12.06.18:072][437]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-12.06.18:076][437]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.08.01-12.06.18:076][437]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 534 ms)
+[2025.08.01-12.06.18:076][437]LogPlayLevel: PIE: World Init took: (0.005290s)
+[2025.08.01-12.06.18:076][437]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2025.08.01-12.06.18:076][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-12.06.18:076][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-12.06.18:076][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-12.06.18:076][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-12.06.18:076][437]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.01-12.06.18:077][437]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-12.06.18:077][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.01-12.06.18:077][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-12.06.18:077][437]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-12.06.18:077][437]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-12.06.18:077][437]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-12.06.18:079][437]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-12.06.18:105][437]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.01-12.06.18:105][437]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-12.06.18:105][437]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-12.06.18:105][437]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-12.06.18:105][437]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2025.08.01-12.06.18:105][437]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2025.08.01-12.06.18:107][437]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2025.08.01-12.06.18:107][437]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2025.08.01-12.06.18:113][437]LogInit: FAudioDevice initialized with ID 63.
+[2025.08.01-12.06.18:113][437]LogAudio: Display: Audio Device (ID: 63) registered with world 'ThirdPersonMap'.
+[2025.08.01-12.06.18:113][437]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2025.08.01-12.06.18:116][437]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.01-12.06.18:124][437]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.08.01-13.06.18
+[2025.08.01-12.06.18:124][437]LogWorld: Bringing up level for play took: 0.008399
+[2025.08.01-12.06.18:127][437]LogOnline: OSS: Created online subsystem instance for: :Context_145
+[2025.08.01-12.06.18:131][437]PIE: Server logged in
+[2025.08.01-12.06.18:133][437]PIE: Play in editor total start time 0.188 seconds.
+[2025.08.01-12.06.27:840][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-12.06.27:840][412]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-12.06.27:840][412]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-12.06.27:842][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-12.06.27:842][412]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.08.01-12.06.27:846][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-12.06.27:851][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-12.06.27:880][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-12.06.27:881][412]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2025.08.01-12.06.27:882][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2025.08.01-12.06.27:883][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2025.08.01-12.06.27:893][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.08.01-12.06.27:953][413]LogPlayLevel: Display: Destroying online subsystem :Context_145
+[2025.08.01-12.06.30:989][671]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Props/BP_Key.BP_Key
+[2025.08.01-12.06.30:989][671]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-12.06.30:989][671]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-12.06.33:356][789]LogViewport: Scene viewport resized to 1102x607, mode Windowed.
+[2025.08.01-12.06.55:662][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 256461.890625
+[2025.08.01-12.06.55:842][ 85]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-12.06.55:842][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 256462.046875, Update Interval: 343.056732
+[2025.08.01-12.07.22:185][583]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.01-12.07.26:359][809]BlueprintLog: New page: Compile BP_Key
+[2025.08.01-12.07.26:417][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.08.01-12.07.33:894][139]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-12.07.33:894][139]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.08.01-12.07.33:900][139]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 5 ms (total: 279 ms)
+[2025.08.01-12.07.33:900][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-12.07.33:900][139]PIE: New page: PIE session: ThirdPersonMap (1 Aug 2025, 14:07:33)
+[2025.08.01-12.07.33:910][139]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-12.07.33:927][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017428s)
+[2025.08.01-12.07.33:927][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.017471s)
+[2025.08.01-12.07.33:962][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.08.01-12.07.33:966][139]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-12.07.33:967][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-12.07.33:967][139]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.08.01-12.07.33:968][139]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-12.07.33:968][139]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-12.07.33:968][139]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-12.07.33:968][139]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-12.07.33:972][139]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.08.01-12.07.33:972][139]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 538 ms)
+[2025.08.01-12.07.33:972][139]LogPlayLevel: PIE: World Init took: (0.005682s)
+[2025.08.01-12.07.33:972][139]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2025.08.01-12.07.33:972][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-12.07.33:972][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-12.07.33:972][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-12.07.33:972][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-12.07.33:972][139]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.01-12.07.33:972][139]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-12.07.33:972][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.01-12.07.33:972][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-12.07.33:972][139]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-12.07.33:972][139]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-12.07.33:972][139]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-12.07.33:975][139]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-12.07.34:006][139]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.01-12.07.34:007][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-12.07.34:007][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-12.07.34:007][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-12.07.34:008][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2025.08.01-12.07.34:008][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2025.08.01-12.07.34:009][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2025.08.01-12.07.34:009][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2025.08.01-12.07.34:009][139]LogInit: FAudioDevice initialized with ID 64.
+[2025.08.01-12.07.34:009][139]LogAudio: Display: Audio Device (ID: 64) registered with world 'ThirdPersonMap'.
+[2025.08.01-12.07.34:009][139]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2025.08.01-12.07.34:011][139]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.01-12.07.34:030][139]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.08.01-13.07.34
+[2025.08.01-12.07.34:031][139]LogWorld: Bringing up level for play took: 0.019097
+[2025.08.01-12.07.34:033][139]LogOnline: OSS: Created online subsystem instance for: :Context_147
+[2025.08.01-12.07.34:044][139]PIE: Server logged in
+[2025.08.01-12.07.34:045][139]PIE: Play in editor total start time 0.15 seconds.
+[2025.08.01-12.07.59:970][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-12.07.59:970][798]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-12.07.59:970][798]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-12.07.59:971][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-12.07.59:972][798]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.08.01-12.07.59:977][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-12.07.59:982][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-12.08.00:001][798]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.01-12.08.00:001][798]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2025.08.01-12.08.00:001][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2025.08.01-12.08.00:003][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2025.08.01-12.08.00:007][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-12.08.00:013][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.08.01-12.08.00:137][799]LogPlayLevel: Display: Destroying online subsystem :Context_147
+[2025.08.01-12.11.08:508][204]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.01-12.11.10:380][310]BlueprintLog: New page: Compile BP_Key
+[2025.08.01-12.11.10:714][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.08.01-12.11.18:091][408]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-12.11.18:092][408]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.08.01-12.11.18:100][408]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 8 ms (total: 288 ms)
+[2025.08.01-12.11.18:100][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-12.11.18:100][408]PIE: New page: PIE session: ThirdPersonMap (1 Aug 2025, 14:11:18)
+[2025.08.01-12.11.18:100][408]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-12.11.18:116][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015470s)
+[2025.08.01-12.11.18:116][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.015506s)
+[2025.08.01-12.11.18:132][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.01-12.11.18:136][408]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-12.11.18:136][408]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-12.11.18:136][408]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.08.01-12.11.18:137][408]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-12.11.18:137][408]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-12.11.18:137][408]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-12.11.18:137][408]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-12.11.18:141][408]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.08.01-12.11.18:173][408]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 542 ms)
+[2025.08.01-12.11.18:173][408]LogPlayLevel: PIE: World Init took: (0.005157s)
+[2025.08.01-12.11.18:173][408]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.01-12.11.18:173][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-12.11.18:173][408]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-12.11.18:173][408]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-12.11.18:173][408]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-12.11.18:173][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2025.08.01-12.11.18:173][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2025.08.01-12.11.18:177][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2025.08.01-12.11.18:177][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2025.08.01-12.11.18:177][408]LogInit: FAudioDevice initialized with ID 65.
+[2025.08.01-12.11.18:177][408]LogAudio: Display: Audio Device (ID: 65) registered with world 'ThirdPersonMap'.
+[2025.08.01-12.11.18:177][408]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2025.08.01-12.11.18:180][408]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.01-12.11.18:189][408]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.08.01-13.11.18
+[2025.08.01-12.11.18:189][408]LogWorld: Bringing up level for play took: 0.008724
+[2025.08.01-12.11.18:202][408]LogOnline: OSS: Created online subsystem instance for: :Context_148
+[2025.08.01-12.11.18:207][408]PIE: Server logged in
+[2025.08.01-12.11.18:207][408]PIE: Play in editor total start time 0.116 seconds.
+[2025.08.01-12.13.18:578][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-12.13.18:579][ 98]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-12.13.18:579][ 98]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-12.13.18:580][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-12.13.18:580][ 98]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.08.01-12.13.18:585][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-12.13.18:591][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-12.13.18:609][ 98]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.01-12.13.18:609][ 98]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2025.08.01-12.13.18:609][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2025.08.01-12.13.18:611][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2025.08.01-12.13.18:616][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-12.13.18:621][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.08.01-12.13.18:758][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_148
+[2025.08.01-12.13.22:336][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-12.13.22:399][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/BP_Key" FILE="C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/StarterContent/Props/BP_Key.uasset" SILENT=true
+[2025.08.01-12.13.22:406][290]LogSavePackage: Moving output files for package: /Game/StarterContent/Props/BP_Key
+[2025.08.01-12.13.22:407][290]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/BP_Key46B1110B471F924FCA35A7B852B1519A.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/StarterContent/Props/BP_Key.uasset'
+[2025.08.01-12.13.22:415][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 6.95 sec)
+[2025.08.01-12.13.22:421][290]AssetCheck: New page: Asset Save: BP_Key
+[2025.08.01-12.13.22:421][290]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Props/BP_Key.BP_Key
+[2025.08.01-12.13.23:446][347]LogSlate: Window 'BP_Key' being destroyed
+[2025.08.01-12.13.23:489][347]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-12.13.23:489][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-12.13.26:684][633]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 256839.265625
+[2025.08.01-12.13.26:845][649]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-12.13.26:845][649]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 256839.500000, Update Interval: 300.780060
+[2025.08.01-12.15.40:065][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.08.01-12.15.40:087][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-12.15.40:142][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HI/6DHQJLGF1TXN2ACNKDQK68
+[2025.08.01-12.15.40:142][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/6DHQJLGF1TXN2ACNKDQK68E7F2A472434871C561BE1187DA1F0286.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HI/6DHQJLGF1TXN2ACNKDQK68.uasset'
+[2025.08.01-12.15.40:152][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YJ/IFFWREDG4667LEH7K7Q37P
+[2025.08.01-12.15.40:153][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/IFFWREDG4667LEH7K7Q37P64F364834B1CB76534C8A1B03B196523.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YJ/IFFWREDG4667LEH7K7Q37P.uasset'
+[2025.08.01-12.15.40:156][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IE/9BWJKJPKKKFZ2FC749KS7W
+[2025.08.01-12.15.40:156][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/9BWJKJPKKKFZ2FC749KS7W7A72208F473E4331DC5D889C4E3E2FD5.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IE/9BWJKJPKKKFZ2FC749KS7W.uasset'
+[2025.08.01-12.15.40:159][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9D/H3YBQJGJGAW8UIGNCF6DJP
+[2025.08.01-12.15.40:159][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/H3YBQJGJGAW8UIGNCF6DJP0518DCCF47090F7E74EB3DB943D3B7DC.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9D/H3YBQJGJGAW8UIGNCF6DJP.uasset'
+[2025.08.01-12.15.40:162][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BC/81PK60B8HELPZ65BL3YW4E
+[2025.08.01-12.15.40:163][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/81PK60B8HELPZ65BL3YW4E8FB9A0CA4074CC8D149661999D694DF8.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BC/81PK60B8HELPZ65BL3YW4E.uasset'
+[2025.08.01-12.15.40:167][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XX/TCVHMXYCXTC8780HWTCE0I
+[2025.08.01-12.15.40:168][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/TCVHMXYCXTC8780HWTCE0I93F2ECCF479E11C7FDC60594F1DFAB93.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XX/TCVHMXYCXTC8780HWTCE0I.uasset'
+[2025.08.01-12.15.40:171][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TK/2XA8XC7IN41R1S9VA2PSND
+[2025.08.01-12.15.40:172][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/2XA8XC7IN41R1S9VA2PSND196771874D268E80247C1B8ACBF4751F.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TK/2XA8XC7IN41R1S9VA2PSND.uasset'
+[2025.08.01-12.15.40:175][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GZ/5G3I9B4A0J0IDBNF0RNDAD
+[2025.08.01-12.15.40:176][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/5G3I9B4A0J0IDBNF0RNDAD38AB9FA24BB2794832A7A3A91B438183.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GZ/5G3I9B4A0J0IDBNF0RNDAD.uasset'
+[2025.08.01-12.15.40:179][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/7S/0EUXRTIUTU2YHWEV4LJSG3
+[2025.08.01-12.15.40:180][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/0EUXRTIUTU2YHWEV4LJSG38EFFA8024EB77E92E88C72B7A6976C65.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/7S/0EUXRTIUTU2YHWEV4LJSG3.uasset'
+[2025.08.01-12.15.40:183][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2B/T67ZTC0242R015OKIQK77S
+[2025.08.01-12.15.40:183][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/T67ZTC0242R015OKIQK77SE916D04D4A3696FB2B9BA09790EE6AC6.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2B/T67ZTC0242R015OKIQK77S.uasset'
+[2025.08.01-12.15.40:185][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/II/IGT8Z20H457ZLLHDB1WOZ1
+[2025.08.01-12.15.40:186][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/IGT8Z20H457ZLLHDB1WOZ1FE0C99464DF6A80CDF5758A5C8CB55D4.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/II/IGT8Z20H457ZLLHDB1WOZ1.uasset'
+[2025.08.01-12.15.40:189][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3B/LI4OSJ1AEILRJAU0YCPUX4
+[2025.08.01-12.15.40:189][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/LI4OSJ1AEILRJAU0YCPUX434927A9B452B17A21B6D25B77E77DC75.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3B/LI4OSJ1AEILRJAU0YCPUX4.uasset'
+[2025.08.01-12.15.40:191][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EM/93FU54MLJMZD7BE2O251YT
+[2025.08.01-12.15.40:192][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/93FU54MLJMZD7BE2O251YT4771C1D54560682656C5358B74379D5E.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EM/93FU54MLJMZD7BE2O251YT.uasset'
+[2025.08.01-12.15.40:194][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O3/FXUTN2GZACZTNLEFPIHMUE
+[2025.08.01-12.15.40:195][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/FXUTN2GZACZTNLEFPIHMUEB0BB98F34A1B02607E9F78AF9ED54CA5.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O3/FXUTN2GZACZTNLEFPIHMUE.uasset'
+[2025.08.01-12.15.40:198][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/CZ/KO6XV2PKX3HDVTMTQ61RE7
+[2025.08.01-12.15.40:198][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/KO6XV2PKX3HDVTMTQ61RE714E243074A2FF43CAA16DBAD92F70DFA.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/CZ/KO6XV2PKX3HDVTMTQ61RE7.uasset'
+[2025.08.01-12.15.40:208][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MM/3NDKCZK9TNPWTE88VUEPK9
+[2025.08.01-12.15.40:208][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/3NDKCZK9TNPWTE88VUEPK910B423D94FF5B6BF5043E7952B37BB2B.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MM/3NDKCZK9TNPWTE88VUEPK9.uasset'
+[2025.08.01-12.15.40:214][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/UN/WJQHEJ6HO2873ZWKLDUCDH
+[2025.08.01-12.15.40:214][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/WJQHEJ6HO2873ZWKLDUCDH754E6576428B022A144C4CBC25BAE090.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/UN/WJQHEJ6HO2873ZWKLDUCDH.uasset'
+[2025.08.01-12.15.40:218][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7Y/TZ8WHCBXFV7I677JJ06XUO
+[2025.08.01-12.15.40:218][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/TZ8WHCBXFV7I677JJ06XUO0D36BD10482543EC0C4D7BB01E5109B5.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7Y/TZ8WHCBXFV7I677JJ06XUO.uasset'
+[2025.08.01-12.15.40:221][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/BG/PATS32D8BR9PKG5PHTYNTD
+[2025.08.01-12.15.40:221][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/PATS32D8BR9PKG5PHTYNTDED9E925A4132FA0CD6847C87F220F671.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/BG/PATS32D8BR9PKG5PHTYNTD.uasset'
+[2025.08.01-12.15.40:225][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/6P/JOBE0Q9ZPHZAG3RV8HWONY
+[2025.08.01-12.15.40:225][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/JOBE0Q9ZPHZAG3RV8HWONYB10CEE8D4C782CA2C754A0B0CB783FD5.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/6P/JOBE0Q9ZPHZAG3RV8HWONY.uasset'
+[2025.08.01-12.15.40:234][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/0Y/UP0HCL5ISVLBNWF6SCEG17
+[2025.08.01-12.15.40:234][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/UP0HCL5ISVLBNWF6SCEG171548B4C44EBDD2EE7C060B9F263BFA6C.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/0Y/UP0HCL5ISVLBNWF6SCEG17.uasset'
+[2025.08.01-12.15.40:237][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/57/Z0FTG9SEG79H53XP3PLN8S
+[2025.08.01-12.15.40:237][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Z0FTG9SEG79H53XP3PLN8S7B185CD14323144777284CA3A8207FF4.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/57/Z0FTG9SEG79H53XP3PLN8S.uasset'
+[2025.08.01-12.15.40:241][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/QF/FUPKTPK9UZJAKFNHSCZQJX
+[2025.08.01-12.15.40:241][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/FUPKTPK9UZJAKFNHSCZQJX0707CE1C478C1E54DC95A8B5722107B6.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/QF/FUPKTPK9UZJAKFNHSCZQJX.uasset'
+[2025.08.01-12.15.40:244][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XE/U5L9D02JE70HBBZCWIEUI3
+[2025.08.01-12.15.40:244][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/U5L9D02JE70HBBZCWIEUI35D491785454291C183438087674D862B.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XE/U5L9D02JE70HBBZCWIEUI3.uasset'
+[2025.08.01-12.15.40:247][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EN/Z433XZ05D6SD0AB0D9EGW5
+[2025.08.01-12.15.40:247][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Z433XZ05D6SD0AB0D9EGW53A6E5CAE4FDD0F4C76A043B4351D5F3F.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EN/Z433XZ05D6SD0AB0D9EGW5.uasset'
+[2025.08.01-12.15.40:251][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/TP/KFAB3Y5Z2HTO1QZ4VL3LPY
+[2025.08.01-12.15.40:251][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/KFAB3Y5Z2HTO1QZ4VL3LPY899AAE3E48445C3799ADFBBC544021D5.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/TP/KFAB3Y5Z2HTO1QZ4VL3LPY.uasset'
+[2025.08.01-12.15.40:253][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CW/573PX0LBVD6ASD08ZI3M2G
+[2025.08.01-12.15.40:253][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/573PX0LBVD6ASD08ZI3M2GCC5BB7FE4298CE948403248B4BCE2EC1.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CW/573PX0LBVD6ASD08ZI3M2G.uasset'
+[2025.08.01-12.15.40:256][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JD/DWS5L6LTAL5XO4FPU4VIHX
+[2025.08.01-12.15.40:256][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/DWS5L6LTAL5XO4FPU4VIHXF46B03EB491A9A542E7686A2E6901B5F.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JD/DWS5L6LTAL5XO4FPU4VIHX.uasset'
+[2025.08.01-12.15.40:259][308]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CM/67R3MLLV67TDC6MC7T2SEV
+[2025.08.01-12.15.40:259][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/67R3MLLV67TDC6MC7T2SEV2AF5CBF14FB69885B29D46B275727EE1.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CM/67R3MLLV67TDC6MC7T2SEV.uasset'
+[2025.08.01-12.15.40:261][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/BP_Door" FILE="C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/StarterContent/Props/BP_Door.uasset" SILENT=true
+[2025.08.01-12.15.40:270][308]LogSavePackage: Moving output files for package: /Game/StarterContent/Props/BP_Door
+[2025.08.01-12.15.40:270][308]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/BP_Door4067209448ACB5EDFFA3BBAF4A213B89.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/StarterContent/Props/BP_Door.uasset'
+[2025.08.01-12.15.40:283][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 7.14 sec)
+[2025.08.01-12.15.40:374][308]AssetCheck: New page: Asset Save: multiple assets
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1602150869
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Game/StarterContent/Props/BP_DoorVertical.BP_DoorVertical_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DoorVertical_C_UAID_D843AEB28475398002_1787542714
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Game/StarterContent/Props/BP_DoorVertical.BP_DoorVertical_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DoorVertical_C_UAID_D843AEB28475398002_1813423715
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Game/StarterContent/Props/BP_DoorVertical.BP_DoorVertical_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DoorVertical_C_UAID_D843AEB28475398002_1946012722
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Game/StarterContent/Props/BP_DoorVertical.BP_DoorVertical_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DoorVertical_C_UAID_D843AEB28475398002_1983535726
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Game/StarterContent/Props/BP_Key.BP_Key_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Key_C_UAID_D843AEB28475DD8002_1711870677
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Game/StarterContent/Props/BP_Key.BP_Key_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Key_C_UAID_D843AEB28475DE8002_1974843856
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Game/StarterContent/Props/BP_Key.BP_Key_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Key_C_UAID_D843AEB28475DE8002_1837492855
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Game/StarterContent/Props/BP_Key.BP_Key_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Key_C_UAID_D843AEB28475DE8002_2043005857
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1191984391
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E08002_2020876212
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E08002_2075144213
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1092652390
+[2025.08.01-12.15.40:374][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1267268392
+[2025.08.01-12.15.40:375][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB284750F8102_1893835494
+[2025.08.01-12.15.40:375][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB284750F8102_1907240495
+[2025.08.01-12.15.40:375][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB284750F8102_1997236497
+[2025.08.01-12.15.40:375][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB284750F8102_1939865496
+[2025.08.01-12.15.40:375][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475108102_1503069674
+[2025.08.01-12.15.40:375][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475108102_1534495675
+[2025.08.01-12.15.40:375][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475108102_1591821676
+[2025.08.01-12.15.40:375][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475108102_1752702677
+[2025.08.01-12.15.40:375][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475108102_1795408678
+[2025.08.01-12.15.40:383][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475108102_1860050679
+[2025.08.01-12.15.40:383][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475108102_1932832680
+[2025.08.01-12.15.40:383][308]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1190651866
+[2025.08.01-12.15.40:383][308]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1181923865
+[2025.08.01-12.15.40:383][308]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D843AEB28475118102_1209509867
+[2025.08.01-12.15.40:383][308]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475118102_1823328870
+[2025.08.01-12.15.40:383][308]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Props/BP_Door.BP_Door
