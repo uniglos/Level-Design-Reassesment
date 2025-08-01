@@ -19297,3 +19297,429 @@ UnknownFunction []
 [2025.07.31-20.47.39:480][912]LogSlate: Window 'BP_Door' being destroyed
 [2025.07.31-20.47.39:491][912]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
 [2025.07.31-20.47.39:491][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-20.53.00:227][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 190288.562500
+[2025.07.31-20.53.00:390][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-20.53.00:390][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 190288.796875, Update Interval: 331.537231
+[2025.07.31-20.59.11:915][278]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 190865.750000
+[2025.07.31-20.59.12:090][295]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-20.59.12:090][295]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 190866.000000, Update Interval: 302.497620
+[2025.07.31-21.05.11:528][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 191423.734375
+[2025.07.31-21.05.11:665][  2]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.05.11:665][  2]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 191423.921875, Update Interval: 301.256134
+[2025.07.31-21.07.37:067][283]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.07.37:067][283]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.07.37:068][283]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_0
+[2025.07.31-21.07.37:068][283]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_0
+[2025.07.31-21.07.38:564][403]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.07.38:564][403]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.07.38:568][403]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E08002_1553693210
+[2025.07.31-21.07.38:568][403]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E08002_1553693210
+[2025.07.31-21.11.12:632][ 53]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 191958.578125
+[2025.07.31-21.11.12:785][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.11.12:785][ 68]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 191958.796875, Update Interval: 312.773834
+[2025.07.31-21.11.37:387][310]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.31-21.11.37:387][310]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.31-21.11.37:391][310]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 211 ms)
+[2025.07.31-21.11.37:391][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.31-21.11.37:391][310]PIE: New page: PIE session: ThirdPersonMap (31 Jul 2025, 23:11:37)
+[2025.07.31-21.11.37:391][310]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.31-21.11.37:405][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013561s)
+[2025.07.31-21.11.37:405][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.013596s)
+[2025.07.31-21.11.37:425][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.07.31-21.11.37:437][310]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.31-21.11.37:437][310]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.31-21.11.37:437][310]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.07.31-21.11.37:438][310]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.31-21.11.37:438][310]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.31-21.11.37:438][310]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.31-21.11.37:438][310]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.31-21.11.37:441][310]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.07.31-21.11.37:441][310]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 484 ms)
+[2025.07.31-21.11.37:441][310]LogPlayLevel: PIE: World Init took: (0.005304s)
+[2025.07.31-21.11.37:441][310]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2025.07.31-21.11.37:441][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.31-21.11.37:441][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.31-21.11.37:441][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.31-21.11.37:441][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.31-21.11.37:441][310]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.31-21.11.37:441][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.31-21.11.37:441][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.31-21.11.37:441][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.31-21.11.37:442][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.31-21.11.37:442][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.31-21.11.37:442][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.31-21.11.37:444][310]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.31-21.11.37:470][310]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.07.31-21.11.37:471][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.31-21.11.37:471][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.31-21.11.37:471][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.31-21.11.37:474][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2025.07.31-21.11.37:474][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2025.07.31-21.11.37:476][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2025.07.31-21.11.37:476][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2025.07.31-21.11.37:476][310]LogInit: FAudioDevice initialized with ID 52.
+[2025.07.31-21.11.37:476][310]LogAudio: Display: Audio Device (ID: 52) registered with world 'ThirdPersonMap'.
+[2025.07.31-21.11.37:476][310]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2025.07.31-21.11.37:478][310]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.31-21.11.37:514][310]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.31-22.11.37
+[2025.07.31-21.11.37:515][310]LogWorld: Bringing up level for play took: 0.035580
+[2025.07.31-21.11.37:517][310]LogOnline: OSS: Created online subsystem instance for: :Context_122
+[2025.07.31-21.11.37:522][310]PIE: Server logged in
+[2025.07.31-21.11.37:523][310]PIE: Play in editor total start time 0.135 seconds.
+[2025.07.31-21.11.41:685][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-21.11.41:686][735]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.31-21.11.41:686][735]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-21.11.41:687][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-21.11.41:687][735]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.07.31-21.11.41:690][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.31-21.11.41:696][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-21.11.41:713][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-21.11.41:714][735]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2025.07.31-21.11.41:714][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2025.07.31-21.11.41:716][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2025.07.31-21.11.41:725][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.07.31-21.11.41:821][736]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2025.07.31-21.15.24:393][231]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.15.24:393][231]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.15.24:394][231]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_2
+[2025.07.31-21.15.24:394][231]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_2
+[2025.07.31-21.15.25:747][361]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.15.25:747][361]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.15.25:750][361]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E08002_2020876212
+[2025.07.31-21.15.25:751][361]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E08002_2020876212
+[2025.07.31-21.17.18:193][133]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 192500.125000
+[2025.07.31-21.17.18:347][148]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.17.18:347][148]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 192500.343750, Update Interval: 348.630646
+[2025.07.31-21.19.28:997][149]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.19.28:997][149]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.19.28:997][149]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_3
+[2025.07.31-21.19.28:997][149]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_3
+[2025.07.31-21.19.30:597][281]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.19.30:597][281]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.19.30:601][281]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1191984391
+[2025.07.31-21.19.30:601][281]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1191984391
+[2025.07.31-21.20.03:765][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.07.31-21.20.03:777][446]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/P8/70ACHRFVDOOH4QI0HMS64A_Auto0
+[2025.07.31-21.20.03:777][446]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/70ACHRFVDOOH4QI0HMS64A_Auto0B776BAF64E5029C06CEC65B153039A50.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/P8/70ACHRFVDOOH4QI0HMS64A_Auto0.uasset'
+[2025.07.31-21.20.03:783][446]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XP/UY7NG3W9HG1CR7UJ52WE6Y_Auto0
+[2025.07.31-21.20.03:783][446]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/UY7NG3W9HG1CR7UJ52WE6Y_Auto0F190645A445B41CF6700AEBDEFC226B7.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XP/UY7NG3W9HG1CR7UJ52WE6Y_Auto0.uasset'
+[2025.07.31-21.20.03:786][446]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2B/T67ZTC0242R015OKIQK77S_Auto0
+[2025.07.31-21.20.03:786][446]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/T67ZTC0242R015OKIQK77S_Auto0D19E639E4D17CAD5C337D3BB246CF7A4.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2B/T67ZTC0242R015OKIQK77S_Auto0.uasset'
+[2025.07.31-21.20.03:788][446]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/II/IGT8Z20H457ZLLHDB1WOZ1_Auto0
+[2025.07.31-21.20.03:788][446]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/IGT8Z20H457ZLLHDB1WOZ1_Auto0107B4F2F45E99C400A0D408B1E6DB003.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/II/IGT8Z20H457ZLLHDB1WOZ1_Auto0.uasset'
+[2025.07.31-21.20.03:791][446]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3B/LI4OSJ1AEILRJAU0YCPUX4_Auto0
+[2025.07.31-21.20.03:791][446]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/LI4OSJ1AEILRJAU0YCPUX4_Auto0DF1960AE40E73823B99831B8AD859171.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3B/LI4OSJ1AEILRJAU0YCPUX4_Auto0.uasset'
+[2025.07.31-21.20.03:794][446]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EM/93FU54MLJMZD7BE2O251YT_Auto0
+[2025.07.31-21.20.03:795][446]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/93FU54MLJMZD7BE2O251YT_Auto02F1A7B0C489B9E19CDA4FA9C4BACD8AD.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EM/93FU54MLJMZD7BE2O251YT_Auto0.uasset'
+[2025.07.31-21.20.03:796][446]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.049
+[2025.07.31-21.20.03:796][446]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2025.07.31-21.22.09:656][512]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.22.09:656][512]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.22.09:657][512]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_4
+[2025.07.31-21.22.09:657][512]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_4
+[2025.07.31-21.22.11:092][633]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.22.11:092][633]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.07.31-21.22.11:095][633]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1352479393
+[2025.07.31-21.22.11:095][633]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1352479393
+[2025.07.31-21.22.49:338][ 73]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.31-21.23.28:697][820]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.31-21.23.34:629][339]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.31-21.23.34:629][339]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.31-21.23.34:632][339]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 215 ms)
+[2025.07.31-21.23.34:632][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.31-21.23.34:632][339]PIE: New page: PIE session: ThirdPersonMap (31 Jul 2025, 23:23:34)
+[2025.07.31-21.23.34:693][339]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.31-21.23.34:708][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013868s)
+[2025.07.31-21.23.34:708][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.013921s)
+[2025.07.31-21.23.34:724][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.07.31-21.23.34:733][339]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.07.31-21.23.34:734][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.07.31-21.23.34:734][339]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.07.31-21.23.34:734][339]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.31-21.23.34:734][339]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.31-21.23.34:734][339]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.31-21.23.34:734][339]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.31-21.23.34:738][339]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.07.31-21.23.34:738][339]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 488 ms)
+[2025.07.31-21.23.34:738][339]LogPlayLevel: PIE: World Init took: (0.004749s)
+[2025.07.31-21.23.34:738][339]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2025.07.31-21.23.34:738][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.31-21.23.34:738][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.31-21.23.34:738][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.31-21.23.34:738][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.31-21.23.34:738][339]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.31-21.23.34:738][339]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.31-21.23.34:738][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.31-21.23.34:738][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.31-21.23.34:739][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.31-21.23.34:739][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.31-21.23.34:739][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.31-21.23.34:741][339]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.31-21.23.34:767][339]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.07.31-21.23.34:768][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.31-21.23.34:768][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.31-21.23.34:768][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.31-21.23.34:769][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2025.07.31-21.23.34:769][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2025.07.31-21.23.34:771][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2025.07.31-21.23.34:771][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2025.07.31-21.23.34:771][339]LogInit: FAudioDevice initialized with ID 53.
+[2025.07.31-21.23.34:771][339]LogAudio: Display: Audio Device (ID: 53) registered with world 'ThirdPersonMap'.
+[2025.07.31-21.23.34:771][339]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2025.07.31-21.23.34:773][339]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.31-21.23.34:780][339]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.31-22.23.34
+[2025.07.31-21.23.34:780][339]LogWorld: Bringing up level for play took: 0.006586
+[2025.07.31-21.23.34:782][339]LogOnline: OSS: Created online subsystem instance for: :Context_123
+[2025.07.31-21.23.34:788][339]PIE: Server logged in
+[2025.07.31-21.23.34:789][339]PIE: Play in editor total start time 0.159 seconds.
+[2025.07.31-21.23.40:404][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-21.23.40:404][926]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.31-21.23.40:404][926]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-21.23.40:405][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-21.23.40:406][926]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.07.31-21.23.40:409][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.31-21.23.40:414][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-21.23.40:431][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-21.23.40:432][926]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2025.07.31-21.23.40:432][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2025.07.31-21.23.40:434][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2025.07.31-21.23.40:444][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.07.31-21.23.40:531][927]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2025.07.31-21.23.55:396][288]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 193085.406250
+[2025.07.31-21.23.55:561][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.23.55:561][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 193085.609375, Update Interval: 348.643463
+[2025.07.31-21.30.09:682][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.07.31-21.30.09:693][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2B/T67ZTC0242R015OKIQK77S_Auto1
+[2025.07.31-21.30.09:693][744]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/T67ZTC0242R015OKIQK77S_Auto12E55576946A1BA31047146BA98DF5B96.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2B/T67ZTC0242R015OKIQK77S_Auto1.uasset'
+[2025.07.31-21.30.09:698][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O3/FXUTN2GZACZTNLEFPIHMUE_Auto1
+[2025.07.31-21.30.09:698][744]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/FXUTN2GZACZTNLEFPIHMUE_Auto1CD7A42F741D6CC0C40293EB10D49C848.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O3/FXUTN2GZACZTNLEFPIHMUE_Auto1.uasset'
+[2025.07.31-21.30.09:701][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/B0/KSV5KYSJQ99EJ69NNHWXLM_Auto1
+[2025.07.31-21.30.09:701][744]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/KSV5KYSJQ99EJ69NNHWXLM_Auto1B1251E6A48ABA9D89A3AA8AE898C5BFE.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/B0/KSV5KYSJQ99EJ69NNHWXLM_Auto1.uasset'
+[2025.07.31-21.30.09:703][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MY/L4WMIUU9HEEJ6X5KF2M0P6_Auto1
+[2025.07.31-21.30.09:703][744]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/L4WMIUU9HEEJ6X5KF2M0P6_Auto12CAF53724C6D8889DC560D9A5CC408E8.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MY/L4WMIUU9HEEJ6X5KF2M0P6_Auto1.uasset'
+[2025.07.31-21.30.09:744][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/I2/R5UUZJ4YWRH6XM5DNOPDLF_Auto1
+[2025.07.31-21.30.09:744][744]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/R5UUZJ4YWRH6XM5DNOPDLF_Auto1F982A7F448B3EA19E6593D95A8F5646B.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/I2/R5UUZJ4YWRH6XM5DNOPDLF_Auto1.uasset'
+[2025.07.31-21.30.09:747][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/VF/AOYWLXD47IYJJ4CUGM7MTZ_Auto1
+[2025.07.31-21.30.09:747][744]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/AOYWLXD47IYJJ4CUGM7MTZ_Auto16CCEEBB846BF6955F7C8CC8810027C24.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/VF/AOYWLXD47IYJJ4CUGM7MTZ_Auto1.uasset'
+[2025.07.31-21.30.09:751][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/8Q/725YVP2QYX8STSBA3FT3ZH_Auto1
+[2025.07.31-21.30.09:751][744]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/725YVP2QYX8STSBA3FT3ZH_Auto1C170FCBD42533269BEC981955CCF94FC.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/8Q/725YVP2QYX8STSBA3FT3ZH_Auto1.uasset'
+[2025.07.31-21.30.09:752][744]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.086
+[2025.07.31-21.30.09:752][744]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2025.07.31-21.30.42:172][957]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 193706.671875
+[2025.07.31-21.30.42:336][973]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.30.42:336][973]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 193706.906250, Update Interval: 309.948425
+[2025.07.31-21.36.25:878][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 194250.281250
+[2025.07.31-21.36.26:060][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.36.26:061][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 194250.546875, Update Interval: 356.200439
+[2025.07.31-21.42.57:761][427]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 194870.312500
+[2025.07.31-21.42.57:911][442]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.42.57:911][442]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 194870.531250, Update Interval: 335.833008
+[2025.07.31-21.47.24:319][360]LogDerivedDataCache: C:/Users/erwin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.107 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2126 files in 2786 folders with total size 95 MiB.
+[2025.07.31-21.49.31:944][283]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 195493.062500
+[2025.07.31-21.49.32:088][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.49.32:088][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 195493.265625, Update Interval: 300.459595
+[2025.07.31-21.55.25:168][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 196051.953125
+[2025.07.31-21.55.25:319][ 67]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.55.25:320][ 67]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 196052.171875, Update Interval: 330.266418
+[2025.07.31-22.01.33:015][347]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 196634.687500
+[2025.07.31-22.01.33:181][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.01.33:181][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 196634.937500, Update Interval: 343.140961
+[2025.07.31-22.07.57:224][296]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 197243.265625
+[2025.07.31-22.07.57:401][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.07.57:401][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 197243.531250, Update Interval: 301.025421
+[2025.07.31-22.13.55:286][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 197809.812500
+[2025.07.31-22.13.55:423][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.13.55:423][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 197810.015625, Update Interval: 305.114288
+[2025.07.31-22.19.32:495][711]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 198343.515625
+[2025.07.31-22.19.32:663][728]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.19.32:663][728]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 198343.765625, Update Interval: 354.219177
+[2025.07.31-22.26.21:348][117]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 198990.484375
+[2025.07.31-22.26.21:511][133]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.26.21:511][133]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 198990.718750, Update Interval: 345.691711
+[2025.07.31-22.32.47:603][226]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 199601.562500
+[2025.07.31-22.32.47:755][241]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.32.47:755][241]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 199601.781250, Update Interval: 342.842499
+[2025.07.31-22.39.06:134][583]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 200200.890625
+[2025.07.31-22.39.06:292][599]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.39.06:293][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 200201.125000, Update Interval: 334.681244
+[2025.07.31-22.45.35:842][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 200817.781250
+[2025.07.31-22.45.36:001][ 80]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.45.36:001][ 80]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 200818.015625, Update Interval: 350.320740
+[2025.07.31-22.47.24:308][891]LogDerivedDataCache: C:/Users/erwin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.096 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2126 files in 2786 folders with total size 95 MiB.
+[2025.07.31-22.52.24:583][320]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 201462.718750
+[2025.07.31-22.52.24:756][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.52.24:756][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 201462.968750, Update Interval: 319.096649
+[2025.07.31-22.58.20:196][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 202025.453125
+[2025.07.31-22.58.20:352][351]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.58.20:352][351]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 202025.687500, Update Interval: 345.849182
+[2025.07.31-23.04.53:639][259]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 202649.265625
+[2025.07.31-23.04.53:775][273]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.04.53:775][273]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 202649.468750, Update Interval: 316.386597
+[2025.07.31-23.10.59:159][327]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 203228.453125
+[2025.07.31-23.10.59:326][344]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.10.59:326][344]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 203228.703125, Update Interval: 318.472229
+[2025.07.31-23.17.06:207][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 203809.546875
+[2025.07.31-23.17.06:372][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.17.06:372][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 203809.796875, Update Interval: 336.063721
+[2025.07.31-23.23.15:179][941]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 204394.296875
+[2025.07.31-23.23.15:337][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.23.15:337][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 204394.531250, Update Interval: 306.742157
+[2025.07.31-23.29.10:386][951]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 204956.953125
+[2025.07.31-23.29.10:541][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.29.10:542][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 204957.171875, Update Interval: 301.600403
+[2025.07.31-23.34.44:681][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 205485.593750
+[2025.07.31-23.34.44:818][798]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.34.44:818][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 205485.796875, Update Interval: 310.823700
+[2025.07.31-23.40.32:666][ 66]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 206036.875000
+[2025.07.31-23.40.32:831][ 82]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.40.32:831][ 82]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 206037.109375, Update Interval: 354.492004
+[2025.07.31-23.47.01:313][483]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 206652.765625
+[2025.07.31-23.47.01:479][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.47.01:479][500]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 206653.015625, Update Interval: 343.957642
+[2025.07.31-23.47.25:272][899]LogDerivedDataCache: C:/Users/erwin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.059 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2126 files in 2786 folders with total size 95 MiB.
+[2025.07.31-23.53.20:287][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 207253.531250
+[2025.07.31-23.53.20:441][948]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.53.20:441][948]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 207253.765625, Update Interval: 312.310547
+[2025.07.31-23.59.12:614][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 207811.625000
+[2025.07.31-23.59.12:781][667]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.59.12:781][667]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 207811.875000, Update Interval: 310.118713
+[2025.08.01-00.05.01:973][ 42]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 208364.625000
+[2025.08.01-00.05.02:142][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.05.02:142][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 208364.875000, Update Interval: 322.703949
+[2025.08.01-00.11.12:190][587]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 208951.265625
+[2025.08.01-00.11.12:352][604]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.11.12:352][604]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 208951.515625, Update Interval: 324.771271
+[2025.08.01-00.17.13:983][295]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 209524.828125
+[2025.08.01-00.17.14:131][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.17.14:131][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 209525.046875, Update Interval: 345.114899
+[2025.08.01-00.23.49:991][483]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 210152.765625
+[2025.08.01-00.23.50:129][497]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.23.50:129][497]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 210152.968750, Update Interval: 325.571472
+[2025.08.01-00.29.52:020][194]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 210726.390625
+[2025.08.01-00.29.52:169][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.29.52:169][209]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 210726.609375, Update Interval: 322.191223
+[2025.08.01-00.36.13:453][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 211330.468750
+[2025.08.01-00.36.13:604][870]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.36.13:604][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 211330.687500, Update Interval: 309.917297
+[2025.08.01-00.42.16:721][713]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 211906.375000
+[2025.08.01-00.42.16:864][727]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.42.16:864][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 211906.578125, Update Interval: 352.699371
+[2025.08.01-00.47.24:305][879]LogDerivedDataCache: C:/Users/erwin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2126 files in 2786 folders with total size 95 MiB.
+[2025.08.01-00.48.53:187][952]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 212535.109375
+[2025.08.01-00.48.53:363][969]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.48.53:363][969]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 212535.359375, Update Interval: 346.211731
+[2025.08.01-00.55.14:760][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 213140.000000
+[2025.08.01-00.55.14:904][679]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.55.14:904][679]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 213140.203125, Update Interval: 327.836548
+[2025.08.01-01.01.27:325][423]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 213729.968750
+[2025.08.01-01.01.27:478][439]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.01.27:478][439]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 213730.203125, Update Interval: 315.690796
+[2025.08.01-01.07.34:472][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 214311.468750
+[2025.08.01-01.07.34:621][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.07.34:621][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 214311.687500, Update Interval: 322.826630
+[2025.08.01-01.11.45:513][946]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.01-01.11.45:519][946]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-01.11.45:519][946]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.08.01-01.11.45:524][946]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 5 ms (total: 220 ms)
+[2025.08.01-01.11.45:524][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-01.11.45:525][946]PIE: New page: PIE session: ThirdPersonMap (1 Aug 2025, 03:11:45)
+[2025.08.01-01.11.45:553][946]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-01.11.45:567][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014265s)
+[2025.08.01-01.11.45:567][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.014311s)
+[2025.08.01-01.11.45:582][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.08.01-01.11.45:587][946]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.01-01.11.45:587][946]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.01-01.11.45:588][946]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.08.01-01.11.45:588][946]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-01.11.45:589][946]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-01.11.45:589][946]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-01.11.45:589][946]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-01.11.45:592][946]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.08.01-01.11.45:592][946]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 491 ms)
+[2025.08.01-01.11.45:592][946]LogPlayLevel: PIE: World Init took: (0.005139s)
+[2025.08.01-01.11.45:592][946]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2025.08.01-01.11.45:592][946]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-01.11.45:592][946]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-01.11.45:592][946]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-01.11.45:592][946]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-01.11.45:592][946]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.01-01.11.45:592][946]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-01.11.45:592][946]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.01-01.11.45:592][946]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-01.11.45:592][946]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-01.11.45:593][946]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-01.11.45:593][946]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-01.11.45:594][946]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-01.11.45:622][946]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.01-01.11.45:622][946]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-01.11.45:624][946]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-01.11.45:624][946]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-01.11.45:625][946]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2025.08.01-01.11.45:625][946]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2025.08.01-01.11.45:627][946]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2025.08.01-01.11.45:627][946]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2025.08.01-01.11.45:627][946]LogInit: FAudioDevice initialized with ID 54.
+[2025.08.01-01.11.45:627][946]LogAudio: Display: Audio Device (ID: 54) registered with world 'ThirdPersonMap'.
+[2025.08.01-01.11.45:627][946]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2025.08.01-01.11.45:630][946]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.01-01.11.45:636][946]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.08.01-02.11.45
+[2025.08.01-01.11.45:636][946]LogWorld: Bringing up level for play took: 0.006295
+[2025.08.01-01.11.45:639][946]LogOnline: OSS: Created online subsystem instance for: :Context_124
+[2025.08.01-01.11.45:645][946]PIE: Server logged in
+[2025.08.01-01.11.45:646][946]PIE: Play in editor total start time 0.127 seconds.
+[2025.08.01-01.13.19:704][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-01.13.19:704][906]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.08.01-01.13.19:704][906]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-01.13.19:705][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-01.13.19:705][906]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.08.01-01.13.19:708][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-01.13.19:713][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-01.13.19:730][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-01.13.19:731][906]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2025.08.01-01.13.19:731][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2025.08.01-01.13.19:733][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2025.08.01-01.13.19:742][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.01-01.13.19:802][907]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2025.08.01-01.13.37:773][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.08.01-01.13.37:783][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-01.13.37:848][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/P8/70ACHRFVDOOH4QI0HMS64A
+[2025.08.01-01.13.37:848][433]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/70ACHRFVDOOH4QI0HMS64A33E18F35490325249ADE21AE2D1D6071.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/P8/70ACHRFVDOOH4QI0HMS64A.uasset'
+[2025.08.01-01.13.37:855][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XP/UY7NG3W9HG1CR7UJ52WE6Y
+[2025.08.01-01.13.37:855][433]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/UY7NG3W9HG1CR7UJ52WE6Y5DCDAFB040FFAC0B75DBD7A8E6AA0F1C.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XP/UY7NG3W9HG1CR7UJ52WE6Y.uasset'
+[2025.08.01-01.13.37:859][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2B/T67ZTC0242R015OKIQK77S
+[2025.08.01-01.13.37:859][433]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/T67ZTC0242R015OKIQK77S09C4D2784C694E16C8974299279DA715.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2B/T67ZTC0242R015OKIQK77S.uasset'
+[2025.08.01-01.13.37:872][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/II/IGT8Z20H457ZLLHDB1WOZ1
+[2025.08.01-01.13.37:872][433]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/IGT8Z20H457ZLLHDB1WOZ13669438C460F838A9B5566BBAD89E392.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/II/IGT8Z20H457ZLLHDB1WOZ1.uasset'
+[2025.08.01-01.13.37:875][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3B/LI4OSJ1AEILRJAU0YCPUX4
+[2025.08.01-01.13.37:875][433]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/LI4OSJ1AEILRJAU0YCPUX49FADDA4C4B396F442DD8C5ADC4EA219C.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3B/LI4OSJ1AEILRJAU0YCPUX4.uasset'
+[2025.08.01-01.13.37:878][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EM/93FU54MLJMZD7BE2O251YT
+[2025.08.01-01.13.37:878][433]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/93FU54MLJMZD7BE2O251YT8AB82EA942C8E2E7457BC49143E5DB63.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EM/93FU54MLJMZD7BE2O251YT.uasset'
+[2025.08.01-01.13.37:882][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O3/FXUTN2GZACZTNLEFPIHMUE
+[2025.08.01-01.13.37:882][433]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/FXUTN2GZACZTNLEFPIHMUEDE189EEA405E3B5592E0728C292AFB1F.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O3/FXUTN2GZACZTNLEFPIHMUE.uasset'
+[2025.08.01-01.13.37:884][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/B0/KSV5KYSJQ99EJ69NNHWXLM
+[2025.08.01-01.13.37:884][433]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/KSV5KYSJQ99EJ69NNHWXLM8EB32C614CBF118C3ADCFAB254EC9631.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/B0/KSV5KYSJQ99EJ69NNHWXLM.uasset'
+[2025.08.01-01.13.37:888][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MY/L4WMIUU9HEEJ6X5KF2M0P6
+[2025.08.01-01.13.37:888][433]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/L4WMIUU9HEEJ6X5KF2M0P6C9F6D56448657E335043D88459404F7B.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MY/L4WMIUU9HEEJ6X5KF2M0P6.uasset'
+[2025.08.01-01.13.37:891][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/I2/R5UUZJ4YWRH6XM5DNOPDLF
+[2025.08.01-01.13.37:891][433]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/R5UUZJ4YWRH6XM5DNOPDLFF740340A427EC7CFDB1579804F0747EB.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/I2/R5UUZJ4YWRH6XM5DNOPDLF.uasset'
+[2025.08.01-01.13.37:894][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/VF/AOYWLXD47IYJJ4CUGM7MTZ
+[2025.08.01-01.13.37:894][433]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/AOYWLXD47IYJJ4CUGM7MTZ5A71354A465E9A6AEF49439186D83D55.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/VF/AOYWLXD47IYJJ4CUGM7MTZ.uasset'
+[2025.08.01-01.13.37:897][433]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/8Q/725YVP2QYX8STSBA3FT3ZH
+[2025.08.01-01.13.37:897][433]LogSavePackage: Moving 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Saved/725YVP2QYX8STSBA3FT3ZH8CF7D8BE49C1A474B8AA68973608A11E.tmp' to 'C:/Github Repos/Level-Design-Reassesment/Prison_Break/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/8Q/725YVP2QYX8STSBA3FT3ZH.uasset'
+[2025.08.01-01.13.37:907][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 6.46 sec)
+[2025.08.01-01.13.37:950][433]AssetCheck: New page: Asset Save: multiple assets
+[2025.08.01-01.13.37:950][433]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E08002_1553693210
+[2025.08.01-01.13.37:950][433]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E08002_1884563211
+[2025.08.01-01.13.37:950][433]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1191984391
+[2025.08.01-01.13.37:950][433]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E08002_2020876212
+[2025.08.01-01.13.37:950][433]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E08002_2075144213
+[2025.08.01-01.13.37:950][433]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1092652390
+[2025.08.01-01.13.37:950][433]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1267268392
+[2025.08.01-01.13.37:950][433]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1352479393
+[2025.08.01-01.13.37:950][433]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1502483394
+[2025.08.01-01.13.37:950][433]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1519187395
+[2025.08.01-01.13.37:950][433]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1571910396
+[2025.08.01-01.13.37:950][433]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_UAID_D843AEB28475E18002_1600604397
+[2025.08.01-01.13.49:733][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 214895.250000
+[2025.08.01-01.13.50:733][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.13.50:733][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 214895.906250, Update Interval: 305.652649
